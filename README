@@ -1,0 +1,21 @@
+first, setup a virtual environment. go to your project directory using cd. using the following command
+python -m venv venv
+ur virtual setup will be complete.
+
+then
+source venv/bin/activate   (if linux/wsl)
+or
+venv\Scripts\activate     (if windows)
+
+then
+pip install -r requirements.txt
+
+
+to setup npm, u already have package.json file.
+all u need to do is cd to frontend folder then run
+npm install
+all dependencies needed will be installed from this in node setup and u will see node_modules folder created in frontend folder
+
+
+although a database is already given, as we are still testing, we ahve to delete the whole database and create it again. to do that i have created a python file called insert_questions.py. 
+this file creates the database as well as insert chapter and question data that we will be using. so u have to run it in the main project folder only.

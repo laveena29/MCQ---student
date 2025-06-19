@@ -1,0 +1,9 @@
+Flask
+flask-login
+Flask-Cors
+Flask-SQLAlchemy
+Werkzeug
+python-dotenv
+torch
+numpy
+pandas

@@ -1,0 +1,723 @@
+Chapter,Difficulty,Question,Option_A,Option_B,Option_C,Option_D,Answer
+Introduction to Trigonometry,Easy,What is the value of sin(30°)?,(A) 1,(B) 0,(C) 0.5,(D) √3/2,(C) 0.5
+Introduction to Trigonometry,Easy,What is the value of cos(90°)?,(A) 1,(B) 0,(C) -1,(D) Undefined,(B) 0
+Introduction to Trigonometry,Easy,What is the value of tan(45°)?,(A) 1,(B) 0,(C) √2,(D) Undefined,(A) 1
+Introduction to Trigonometry,Easy,What is the reciprocal of tan(θ)?,(A) sin(θ),(B) cos(θ),(C) cot(θ),(D) sec(θ),(C) cot(θ)
+Introduction to Trigonometry,Easy,"If sin(θ) = 0, what is the value of θ between 0° and 360°?",(A) 90°,(B) 0° and 180°,(C) 270°,(D) 360°,(B) 0° and 180°
+Introduction to Trigonometry,Easy,What is the value of sec(90°)?,(A) 1,(B) 0,(C) Undefined,(D) ∞,(C) Undefined
+Introduction to Trigonometry,Easy,What is the value of cot(45°)?,(A) 0,(B) 1,(C) √2,(D) Undefined,(B) 1
+Introduction to Trigonometry,Easy,What is the ratio for cos(θ) in a right triangle?,(A) Opposite/Hypotenuse,(B) Hypotenuse/Adjacent,(C) Adjacent/Hypotenuse,(D) Adjacent/Opposite,(C) Adjacent/Hypotenuse
+Introduction to Trigonometry,Easy,"If sin(45°) = x, then x is equal to:",(A) 1,(B) 1/2,(C) √2/2,(D) √3/2,(C) √2/2
+Introduction to Trigonometry,Easy,What is the value of tan(0°)?,(A) 0,(B) 1,(C) Undefined,(D) ∞,(A) 0
+Introduction to Trigonometry,Easy,The hypotenuse is always the _____ side of a right triangle.,(A) Shortest,(B) Longest,(C) Middle,(D) None of these,(B) Longest
+Introduction to Trigonometry,Easy,"If tan(θ) = 1, what is the value of θ between 0° and 90°?",(A) 30°,(B) 60°,(C) 45°,(D) 90°,(C) 45°
+Introduction to Trigonometry,Easy,Which of the following is true for a right triangle?,(A) sin²(θ) + cos²(θ) = 1,(B) tan²(θ) + 1 = sec²(θ),(C) cot²(θ) + 1 = cosec²(θ),(D) All of the above,(D) All of the above
+Introduction to Trigonometry,Easy,"If sin(30°) = 1/2, what is cos(30°)?",(A) √3/2,(B) 1/2,(C) √2/2,(D) 0,(A) √3/2
+Introduction to Trigonometry,Easy,What is the reciprocal of sin(θ)?,(A) cos(θ),(B) sec(θ),(C) tan(θ),(D) cosec(θ),(D) cosec(θ)
+Introduction to Trigonometry,Easy,What is the value of sec(0°)?,(A) 1,(B) Undefined,(C) 0,(D) ∞,(A) 1
+Introduction to Trigonometry,Easy,Which trigonometric ratio is equal to 1 for all values of θ?,(A) sin(θ) + cos(θ),(B) sin²(θ) + cos²(θ),(C) tan(θ) + cot(θ),(D) sec(θ) + cosec(θ),(B) sin²(θ) + cos²(θ)
+Introduction to Trigonometry,Easy,"If sin(θ) = cos(θ), what is the value of θ in the first quadrant?",(A) 0°,(B) 45°,(C) 90°,(D) 180°,(B) 45°
+Introduction to Trigonometry,Easy,What is the value of tan(30°)?,(A) 1/√3,(B) √3/3,(C) √3,(D) Both A and B,(D) Both A and B
+Introduction to Trigonometry,Easy,"If cot(45°) = x, what is x?",(A) 0,(B) 1,(C) √2,(D) √3,(B) 1
+Introduction to Trigonometry,Easy,"If sin²(θ) = 0.25, what is the value of cos²(θ)?",(A) 0.75,(B) 0.5,(C) 0.25,(D) 1,(A) 0.75
+Introduction to Trigonometry,Easy,What is the complementary angle of 30°?,(A) 60°,(B) 45°,(C) 90°,(D) 15°,(A) 60°
+Introduction to Trigonometry,Easy,"If tan(θ) = sin(θ)/cos(θ), then tan(45°) = ?",(A) 0,(B) 1,(C) Undefined,(D) √2,(B) 1
+Introduction to Trigonometry,Easy,"If sin(A) = 3/5 in a right triangle, what is cos(A)?",(A) 4/5,(B) 3/5,(C) 5/4,(D) 5/3,(A) 4/5
+Introduction to Trigonometry,Easy,What is the value of sin(30°)?,(A) 1,(B) 1/2,(C) √3/2,(D) 0,(B) 1/2
+Introduction to Trigonometry,Easy,The value of cos(90°) is:,(A) 1,(B) √2/2,(C) 0,(D) √3/2,(C) 0
+Introduction to Trigonometry,Easy,What is the reciprocal of sin(A)?,(A) cot(A),(B) cosec(A),(C) sec(A),(D) tan(A),(B) cosec(A)
+Introduction to Trigonometry,Easy,The value of cos²(A) + sin²(A) is:,(A) 0,(B) 1,(C) 2,(D) None of these,(B) 1
+Introduction to Trigonometry,Easy,"If tan(A)=1, what is the value of A?",(A) 30°,(B) 45°,(C) 60°,(D) 90°,(B) 45°
+Introduction to Trigonometry,Easy,"If sin(A) = 0.5, find A in the first quadrant.",(A) 30°,(B) 45°,(C) 60°,(D) 90°,(A) 30°
+Introduction to Trigonometry,Easy,Which of the following is NOT a trigonometric ratio?,(A) sin,(B) sec,(C) cosec,(D) sqrt,(D) sqrt
+Introduction to Trigonometry,Easy,The value of cosec(90°) is:,(A) 1,(B) 2,(C) Undefined,(D) ∞,(A) 1
+Introduction to Trigonometry,Easy,"If cos(A) = 0.866, what is the angle A?",(A) 30°,(B) 60°,(C) 45°,(D) 90°,(B) 60°
+Introduction to Trigonometry,Easy,The value of sec(0°) is:,(A) Undefined,(B) ∞,(C) 1,(D) 0,(C) 1
+Introduction to Trigonometry,Easy,Which of the following identities is correct?,(A) sin²(A) + cos²(A) = 0,(B) sec²(A) - tan²(A) = 1,(C) tan²(A) + 1 = sec²(A),(D) Both B and C,(D) Both B and C
+Introduction to Trigonometry,Easy,What is the ratio cos(A) in terms of sides of a right triangle?,(A) Opposite/Hypotenuse,(B) Adjacent/Hypotenuse,(C) Opposite/Adjacent,(D) Adjacent/Opposite,(B) Adjacent/Hypotenuse
+Introduction to Trigonometry,Easy,The value of cot(0°) is:,(A) Undefined,(B) 0,(C) ∞,(D) 1,(C) ∞
+Introduction to Trigonometry,Easy,"If sin A = 3/5, what is the value of cos A?",(A) 4/5,(B) 3/4,(C) 5/4,(D) 1/5,(A) 4/5
+Introduction to Trigonometry,Easy,Which of the following is the value of tan 45°?,(A) 0,(B) 1,(C) √3,(D) 2,(B) 1
+Introduction to Trigonometry,Easy,The value of sin(45°) is:,(A) 1,(B) √2/2,(C) 0,(D) √3/2,(B) √2/2
+Introduction to Trigonometry,Hard,What is the exact value of tan(45°) + cot(45°)?,(A) 1,(B) 2,(C) √2,(D) 0,(B) 2
+Introduction to Trigonometry,Hard,"If tan(A) + cot(A) = 2, what is the value of sin²(A) + cos²(A)?",(A) 0,(B) 1,(C) 2,(D) Undefined,(B) 1
+Introduction to Trigonometry,Hard,"If sin(2A) = √3/2, what are the possible values of A in the range 0° to 360°?","(A) 30°, 150°","(B) 60°, 120°","(C) 45°, 135°","(D) 90°, 270°","(B) 60°, 120°"
+Introduction to Trigonometry,Hard,"If cos(θ) = 4/5 and θ lies in the fourth quadrant, find sin(",(A) -3/5,(B) 3/5,(C) -4/5,(D) 5/3,(A) -3/5
+Introduction to Trigonometry,Hard,"If tan(A) = √3, then what is sec(A)?",(A) 2,(B) 1/2,(C) √2,(D) 1,(A) 2
+Introduction to Trigonometry,Hard,Prove that (sin(A) - cos(A))² + 2sin(A)cos(A) = 1.,(A) Always True,(B) Always False,(C) True for specific values of A,(D) Cannot be determined,(A) Always True
+Introduction to Trigonometry,Hard,Solve: sin²(30°) + sin²(60°).,(A) 1,(B) √3/2,(C) 3/4,(D) 5/4,(C) 3/4
+Introduction to Trigonometry,Hard,"If tan(A) = 5/12, find the value of sec(A).",(A) 13/12,(B) 12/13,(C) 13/5,(D) 5/13,(A) 13/12
+Introduction to Trigonometry,Hard,"If sin(A) + cos(A) = √2 cos(A), then what is tan(A)?",(A) 1,(B) √3,(C) 1/√3,(D) √2,(A) 1
+Introduction to Trigonometry,Hard,"If sec(θ) + tan(θ) = 2, then find sin(θ).",(A) 1/2,(B) √3/2,(C) 1,(D) 0,(A) 1/2
+Introduction to Trigonometry,Hard,Prove: 1−sin2(A)cos2(A)=1\frac{1 - sin²(A)}{cos²(A)} = 1cos2(A)1−sin2(A)​=1. Which property validates this?,(A) sec²(A) - tan²(A) = 1,(B) sin²(A) + cos²(A) = 1,(C) cot²(A) + 1 = cosec²(A),(D) tan²(A) + 1 = sec²(A),(B) sin²(A) + cos²(A) = 1
+Introduction to Trigonometry,Hard,"If tan(A) = √3 and sin(A) > 0, then find cos(A).",(A) 1/2,(B) √3/2,(C) -1/2,(D) Undefined,(A) 1/2
+Introduction to Trigonometry,Hard,"If cot(2A)=1√3cot(2A) = \frac{1}{√3}cot(2A)=√31​, find the value of A between 0° and 90°.",(A) 15°,(B) 30°,(C) 45°,(D) None of these,(A) 15°
+Introduction to Trigonometry,Hard,Solve: sec(A)−tan(A)=12sec(A) - tan(A) = \frac{1}{2}sec(A)−tan(A)=21​. What is the value of cos(A)?,(A) √3/2,(B) 1/2,(C) 3/4,(D) 4/5,(D) 4/5
+Introduction to Trigonometry,Hard,"If tan(A)+cot(A)=2tan(A) + cot(A) = 2tan(A)+cot(A)=2, then find tan²(A) + cot²(A).",(A) 3,(B) 4,(C) 5,(D) None of these,(C) 5
+Introduction to Trigonometry,Hard,Simplify: 1+sin(A)cos(A)+cos(A)1+sin(A)\frac{1 + sin(A)}{cos(A)} + \frac{cos(A)}{1 + sin(A)}cos(A)1+sin(A)​+1+sin(A)cos(A)​.,(A) 2sec(A),(B) sec(A),(C) cosec(A),(D) None of these,(A) 2sec(A)
+Introduction to Trigonometry,Hard,Prove: sec(A)+tan(A)=1sec(A)−tan(A)sec(A) + tan(A) = \frac{1}{sec(A) - tan(A)}sec(A)+tan(A)=sec(A)−tan(A)1​. What is the value of A for the identity to hold true?,(A) 30°,(B) 45°,(C) 60°,(D) All A between 0° and 90°,(D) All A between 0° and 90°
+Introduction to Trigonometry,Hard,"If sin(A)=45sin(A) = \frac{4}{5}sin(A)=54​, and A lies in the second quadrant, find the value of sec(A).",(A) 5/3,(B) -5/4,(C) 5/4,(D) None of these,(C) 5/4
+Introduction to Trigonometry,Hard,"If sin(A)+cos(A)=psin(A) + cos(A) = psin(A)+cos(A)=p and sin(A)cos(A)=qsin(A)cos(A) = qsin(A)cos(A)=q, what is sin2(A)+cos2(A)sin²(A) + cos²(A)sin2(A)+cos2(A)?",(A) 2pq,(B) p² - 2q,(C) p² + 2q,(D) Undefined,(B) p² - 2q
+Introduction to Trigonometry,Hard,"If tan(2(A)=2tan(A)1−tan2(A)tan(2(A) = \frac{2tan(A)}{1 - tan²(A)}tan(2(A)=1−tan2(A)2tan(A)​, find the condition when the denominator becomes zero.",(A) tan(A)=1tan(A) = 1tan(A)=1,(B) tan(A)=−1tan(A) = -1tan(A)=−1,(C) tan(A)=0tan(A) = 0tan(A)=0,(D) Both A and B,(D) Both A and B
+Introduction to Trigonometry,Hard,"If sec2(A)−1=tan2(A)sec²(A) - 1 = tan²(A)sec2(A)−1=tan2(A), what is the value of sec2(A)+1sec²(A) + 1sec2(A)+1?",(A) 1,(B) tan²(A) + 2,(C) cot²(A) + 2,(D) None of these,(B) tan²(A) + 2
+Introduction to Trigonometry,Hard,"If sin(2(A)=2sin(A)cos(A)sin(2(A) = 2sin(A)cos(A)sin(2(A)=2sin(A)cos(A) and sin(A)=35sin(A) = \frac{3}{5}sin(A)=53​, find sin(2(A)sin(2(A)sin(2(A).",(A) 24/25,(B) 12/25,(C) 25/24,(D) Undefined,(A) 24/25
+Introduction to Trigonometry,Hard,"If cot(A)=1√3cot(A) = \frac{1}{√3}cot(A)=√31​, find the value of sec(A)sec(A)sec(A).",(A) 2,(B) 2/√3,(C) 3/2,(D) None of these,(A) 2
+Introduction to Trigonometry,Hard,Prove: sin(3(A)=3sin(A)−4sin3(A)sin(3(A) = 3sin(A) - 4sin³(A)sin(3(A)=3sin(A)−4sin3(A). For what value of A does the equation hold true?,(A) 30°,(B) 45°,(C) 60°,(D) All of the above,(D) All of the above
+Introduction to Trigonometry,Hard,"If tan(A)=2tan(A) = 2tan(A)=2, and A lies in the first quadrant, find sin2(A)sin²(A)sin2(A).",(A) 4/5,(B) 16/25,(C) 9/25,(D) None of these,(B) 16/25
+Introduction to Trigonometry,Hard,"If cos²(A) - sin²(A) = 1/2, what is A?",(A) 30°,(B) 45°,(C) 60°,(D) 90°,(C) 60°
+Introduction to Trigonometry,Hard,Prove that tan(A) + cot(A) = sin(2(A) / (sin²(A) - cos²(A)). Find A for which this is undefined:,(A) 45°,(B) 90°,(C) 0°,(D) 30°,(B) 90°
+Introduction to Trigonometry,Hard,"If sec(A) + tan(A) = 3, find sec(A):",(A) 2,(B) 3,(C) 5/2,(D) Undefined,(A) 2
+Introduction to Trigonometry,Hard,"If 1 + cot²(A) = 25/16, find sin(A):",(A) 4/5,(B) 3/5,(C) 3/4,(D) 5/3,(C) 3/4
+Introduction to Trigonometry,Hard,Solve sin⁴(A) - cos⁴(A):,(A) sin²(A) - cos²(A),(B) -cos(2(A),(C) -sin(2(A),(D) None of these,(B) -cos(2(A)
+Introduction to Trigonometry,Hard,"If tan(A) = √3, and cos(A) is negative, find A:",(A) 120°,(B) 135°,(C) 150°,(D) 180°,(A) 120°
+Introduction to Trigonometry,Hard,"If sin(3(A) = cos(A), find A:",(A) 22.5°,(B) 30°,(C) 45°,(D) 15°,(D) 15°
+Introduction to Trigonometry,Hard,Solve: cot²(A) - cosec²(A) = -1. Find the condition on A:,(A) A = 90°,(B) A = 0°,(C) A = 45°,(D) A = 30°,(C) A = 45°
+Introduction to Trigonometry,Hard,"If cos(2(A) = 1/2, find the general solution for A:",(A) nπ ± π/3,(B) nπ ± π/4,(C) nπ ± π/6,(D) nπ ± π/2,(C) nπ ± π/6
+Introduction to Trigonometry,Hard,"If sin(A) + cos(A) = 1, find sin(2(A):",(A) 0,(B) 1,(C) -1,(D) Undefined,(A) 0
+Introduction to Trigonometry,Hard,Prove: 1 - sin²(A) = cos²(A). What is the geometric interpretation?,(A) sin²(A) + cos²(A) = 1,(B) Pythagoras theorem,(C) Unit circle,(D) All of these,(D) All of these
+Introduction to Trigonometry,Hard,"If tan(A) tan((B) = 1, find A + B:",(A) 90°,(B) 180°,(C) 0°,(D) None of these,(A) 90°
+Introduction to Trigonometry,Hard,"If sec(A) = 13/5, find sin(A):",(A) 12/13,(B) 5/13,(C) 12/5,(D) None of these,(A) 12/13
+Introduction to Trigonometry,Hard,Solve for A: sin(A) cos(A) = 1/2. Find A in degrees:,(A) 45°,(B) 60°,(C) 30°,(D) 90°,(A) 45°
+Introduction to Trigonometry,Hard,"If tan(2(A) = √3, find A:",(A) 15°,(B) 30°,(C) 45°,(D) 60°,(B) 30°
+Introduction to Trigonometry,Hard,Prove: tan²(A) = sec²(A) - 1. Find sec(A) if tan(A) = 4:,(A) √17,(B) 4/5,(C) 5/4,(D) Undefined,(A) √17
+Introduction to Trigonometry,Hard,"If cosec²(A) - cot²(A) = 1, find cosec(A):",(A) 2,(B) 1,(C) √2,(D) Undefined,(A) 2
+Introduction to Trigonometry,Medium,"If cos(θ) = 0.5, what is the value of θ in the first quadrant?",(A) 30°,(B) 60°,(C) 45°,(D) 90°,(B) 60°
+Introduction to Trigonometry,Medium,Simplify: sin²(45°) + cos²(45°),(A) 0,(B) 1,(C) 2,(D) √2,(B) 1
+Introduction to Trigonometry,Medium,"If sin(θ) = 3/5 and θ lies in the first quadrant, what is cos(θ)?",(A) 4/5,(B) 3/5,(C) √5/5,(D) 5/3,(A) 4/5
+Introduction to Trigonometry,Medium,"If tan(θ) = 1, what is the value of θ between 0° and 360°?",(A) 45° and 225°,(B) 90° and 270°,(C) 135° and 315°,(D) 180° and 360°,(A) 45° and 225°
+Introduction to Trigonometry,Medium,"If cos(θ) = √3/2, what is sin(θ) in the first quadrant?",(A) 1/2,(B) √3/2,(C) √2/2,(D) Undefined,(A) 1/2
+Introduction to Trigonometry,Medium,Simplify: 1 + tan²(θ).,(A) sec²(θ),(B) sin²(θ),(C) cot²(θ),(D) cosec²(θ),(A) sec²(θ)
+Introduction to Trigonometry,Medium,"If cot(θ) = 1, then θ lies in which quadrant?",(A) 1st and 3rd,(B) 2nd and 4th,(C) 1st and 2nd,(D) 3rd and 4th,(A) 1st and 3rd
+Introduction to Trigonometry,Medium,"If sin(θ) = 3/5 and θ is in the first quadrant, what is tan(θ)?",(A) 4/5,(B) 3/4,(C) 5/4,(D) 5/3,(B) 3/4
+Introduction to Trigonometry,Medium,"If cos(θ) = √3/2, what is sin(θ) in the first quadrant?",(A) 1/2,(B) √3/2,(C) √2/2,(D) Undefined,(A) 1/2
+Introduction to Trigonometry,Medium,Simplify: sin²(θ) - cos²(θ).,(A) sin(2θ),(B) -cos(2θ),(C) tan²(θ),(D) Undefined,(B) -cos(2θ)
+Introduction to Trigonometry,Medium,"If tan(45° + θ) = 1, what is the value of θ?",(A) 45°,(B) 0°,(C) -45°,(D) Undefined,(B) 0°
+Introduction to Trigonometry,Medium,"If sin(2(A) = 2sin(A)cos(A), and sin(A) = 3/5, find sin(2A).",(A) 24/25,(B) 12/25,(C) 25/24,(D) Undefined,(A) 24/25
+Introduction to Trigonometry,Medium,"If cot(A) = 7/24, find sin(A)",(A) 7/25,(B) 24/25,(C) 25/24,(D) 7/24,(A) 7/25
+Introduction to Trigonometry,Medium,"If sec(θ) = 13/12, find the value of tan(θ).",(A) 5/12,(B) 12/5,(C) 5/13,(D) 13/5,(B) 12/5
+Introduction to Trigonometry,Medium,"If sin(3x) = 0, what are the possible values of x between 0° and 360°?","(A) 0°, 60°, 120°","(B) 0°, 120°, 240°","(C) 0°, 180°, 360°",(D) None of these,"(C) 0°, 180°, 360°"
+Introduction to Trigonometry,Medium,"If tan(30°) = 1/√3, what is the value of sin²(30°)?",(A) 1/4,(B) √3/4,(C) 1/2,(D) None of these,(A) 1/4
+Introduction to Trigonometry,Medium,Simplify: (1 - sin²(θ))/(cos²(θ)).,(A) tan²(θ),(B) sec²(θ),(C) cot²(θ),(D) None of these,(B) sec²(θ)
+Introduction to Trigonometry,Medium,"If sin(A) = 3/5, find cos²(A).",(A) 4/25,(B) 9/25,(C) 16/25,(D) 1,(C) 16/25
+Introduction to Trigonometry,Medium,Solve for θ if tan²(θ) = sec²(θ) - 1.,(A) True for all θ,(B) θ = 45°,(C) θ = 90°,(D) None of these,(A) True for all θ
+Introduction to Trigonometry,Medium,"If sin(A) = cos(A), find the value of A in the second quadrant.",(A) 45°,(B) 135°,(C) 90°,(D) None of these,(B) 135°
+Introduction to Trigonometry,Medium,"If sin²(A) - cos²(A) = 0, then A lies in which quadrant?",(A) First,(B) Second,(C) Third,(D) Fourth,(A) First
+Introduction to Trigonometry,Medium,"If tan(A) = sin(A)/cos(A), and sin(A) = 4/5, find tan(A).",(A) 4/3,(B) 3/4,(C) 5/4,(D) None of these,(A) 4/3
+Introduction to Trigonometry,Medium,"If cos(A) = 1/2, what is the value of sin²(A)?",(A) 3/4,(B) 1/2,(C) 1/4,(D) None of these,(A) 3/4
+Introduction to Trigonometry,Medium,"If tan²(A) - sin²(A) = sin²(A), what is tan²(A)?",(A) 2sin²(A),(B) sin(A)/tan(A),(C) 2tan²(A),(D) Undefined,(A) 2sin²(A)
+Introduction to Trigonometry,Medium,Simplify 1 - 2sin²(A):,(A) cos(2A),(B) sin(2A),(C) cot²(A),(D) Undefined,(A) cos(2A)
+Introduction to Trigonometry,Medium,"If sec(A) + tan(A) = p, what is sec(A) - tan(A)?",(A) 1/p,(B) p²,(C) Undefined,(D) None of these,(A) 1/p
+Introduction to Trigonometry,Medium,"If sin(A) = cos((B), then A + B equals:",(A) 45°,(B) 90°,(C) 0°,(D) Undefined,(B) 90°
+Introduction to Trigonometry,Medium,"If cot(A) = 3, find cosec²(A):",(A) 1,(B) 4,(C) 10,(D) 3,(C) 10
+Introduction to Trigonometry,Medium,The value of sin²(45°) + cos²(45°) is:,(A) 1,(B) 0.5,(C) 2,(D) Undefined,(A) 1
+Introduction to Trigonometry,Medium,Solve: 1 + tan²(A):,(A) 1/sec²(A),(B) sec²(A),(C) tan²(A),(D) Undefined,(B) sec²(A)
+Introduction to Trigonometry,Medium,What is the value of 2cos²(30°) - 1?,(A) 1/2,(B) 1,(C) -1/2,(D) Undefined,(C) -1/2
+Introduction to Trigonometry,Medium,Prove: sin²(A) - cos²(A) = -cos(2(A). What is the condition for this?,(A) A = 45°,(B) A = 90°,(C) Always true,(D) None of these,(C) Always true
+Introduction to Trigonometry,Medium,"If cos(4A) = 1, find A:",(A) 45°,(B) 90°,(C) 0°,(D) 180°,(C) 0°
+Introduction to Trigonometry,Medium,"If tan(A) = 1/√3, what is the value of A?",(A) 30°,(B) 45°,(C) 60°,(D) 90°,(A) 30°
+Introduction to Trigonometry,Medium,What is the value of sec(45°)?,(A) √2,(B) 1/√2,(C) 1,(D) Undefined,(A) √2
+Introduction to Trigonometry,Medium,"If sin(A) = 3/5, find cos(A):",(A) 4/5,(B) 3/4,(C) 5/3,(D) None of these,(A) 4/5
+Introduction to Trigonometry,Medium,What is the value of sin(45°) * cos(45°)?,(A) 1/2,(B) √2,(C) √3/2,(D) 1,(A) 1/2
+Introduction to Trigonometry,Medium,Simplify tan(A) * cot(A):,(A) 1,(B) sin²(A),(C) cos²(A),(D) Undefined,(A) 1
+Introduction to Trigonometry,Medium,"If tan²(A) + 1 = sec²(A), and tan²(A) = 3, find sec²(A):",(A) 4,(B) 3,(C) 2,(D) None of these,(A) 4
+Applications of Trigonometry,Easy,"A ladder is leaning against a wall making an angle of 60° with the ground. If the ladder is 10 meters long, find the height of the wall it reaches.",(A) 5 meters,(B) 8.66 meters,(C) 10 meters,(D) 6 meters,(B) 8.66 meters
+Applications of Trigonometry,Easy,"If the angle of elevation of the top of a tower is 45° and the distance of the observer from the base of the tower is 10 meters, what is the height of the tower?",(A) 5√2 meters,(B) 10 meters,(C) 20 meters,(D) 15 meters,(B) 10 meters
+Applications of Trigonometry,Easy,A pole casts a shadow of 5 meters when the angle of elevation of the sun is 60°. What is the height of the pole?,(A) 5 meters,(B) 10 meters,(C) 5√3 meters,(D) None of these,(C) 5√3 meters
+Applications of Trigonometry,Easy,"From the top of a building, the angle of depression of a car is 30°. If the height of the building is 20 meters, find the distance of the car from the building.",(A) 10 meters,(B) 20√3 meters,(C) 30 meters,(D) 40 meters,(B) 20√3 meters
+Applications of Trigonometry,Easy,"The angle of elevation of the top of a tree is 45°. If the tree is 15 meters high, find the distance of the observer from the base of the tree.",(A) 10 meters,(B) 15 meters,(C) 20 meters,(D) 25 meters,(B) 15 meters
+Applications of Trigonometry,Easy,A kite is flying at a height of 50 meters. The string makes an angle of 30° with the ground. Find the length of the string.,(A) 50√3 meters,(B) 100 meters,(C) 100√3 meters,(D) 50 meters,(B) 100 meters
+Applications of Trigonometry,Easy,"A man observes the top of a building at an angle of elevation of 60°. If the building is 30 meters high, find the distance between the man and the building.",(A) 15 meters,(B) 30√3 meters,(C) 20 meters,(D) None of these,(B) 30√3 meters
+Applications of Trigonometry,Easy,"The angle of depression of a boat from the top of a lighthouse is 45°. If the height of the lighthouse is 50 meters, find the distance of the boat from the lighthouse.",(A) 50 meters,(B) 25 meters,(C) 100 meters,(D) 75 meters,(A) 50 meters
+Applications of Trigonometry,Easy,A balloon is flying at a height of 60 meters. The angle of elevation from a point on the ground to the balloon is 30°. Find the horizontal distance between the point and the balloon.,(A) 60 meters,(B) 30 meters,(C) 60√3 meters,(D) 20√3 meters,(C) 60√3 meters
+Applications of Trigonometry,Easy,The top of a tree is observed at an angle of elevation of 45° from a distance of 20 meters. What is the height of the tree?,(A) 20 meters,(B) 30 meters,(C) 15 meters,(D) 25 meters,(A) 20 meters
+Applications of Trigonometry,Easy,"A ramp is inclined at 30° to the horizontal. If the vertical height of the ramp is 5 meters, find the length of the ramp.",(A) 10 meters,(B) 5√3 meters,(C) 15 meters,(D) None of these,(A) 10 meters
+Applications of Trigonometry,Easy,"The angle of elevation of the top of a hill is 30°. If the hill is 50 meters high, find the horizontal distance from the observer to the hill.",(A) 100 meters,(B) 50√3 meters,(C) 25 meters,(D) None of these,(B) 50√3 meters
+Applications of Trigonometry,Easy,A tree casts a shadow of 10 meters when the angle of elevation of the sun is 45°. What is the height of the tree?,(A) 10 meters,(B) 20 meters,(C) 15 meters,(D) None of these,(A) 10 meters
+Applications of Trigonometry,Easy,"From the top of a tower, the angle of depression of a car on the ground is 30°. If the height of the tower is 30 meters, find the distance of the car from the tower.",(A) 30 meters,(B) 30√3 meters,(C) 15 meters,(D) None of these,(B) 30√3 meters
+Applications of Trigonometry,Easy,A ladder of length 13 meters leans against a wall making an angle of 45° with the ground. Find the height of the wall.,(A) 10 meters,(B) 13 meters,(C) 13/√2 meters,(D) None of these,(C) 13/√2 meters
+Applications of Trigonometry,Easy,The top of a flagpole is observed at an angle of elevation of 30° from a point 10 meters away. What is the height of the flagpole?,(A) 10 meters,(B) 5√3 meters,(C) 15 meters,(D) None of these,(B) 5√3 meters
+Applications of Trigonometry,Easy,"If a person observes the top of a hill at an angle of 60° from a distance of 40 meters, what is the height of the hill?",(A) 40√3 meters,(B) 20 meters,(C) 60 meters,(D) None of these,(A) 40√3 meters
+Applications of Trigonometry,Easy,The angle of elevation of the top of a tower from a point 20 meters away is 45°. What is the height of the tower?,(A) 20 meters,(B) 30 meters,(C) 15 meters,(D) None of these,(A) 20 meters
+Applications of Trigonometry,Easy,"From a point on the ground, the angle of elevation of the top of a tree is 60°. If the distance between the tree and the point is 15 meters, what is the height of the tree?",(A) 15 meters,(B) 15√3 meters,(C) 20 meters,(D) None of these,(B) 15√3 meters
+Applications of Trigonometry,Easy,"A kite is flying at a height of 40 meters, and the string makes an angle of 45° with the ground. Find the length of the string.",(A) 40 meters,(B) 40√2 meters,(C) 20 meters,(D) None of these,(B) 40√2 meters
+Applications of Trigonometry,Easy,"The angle of elevation of the top of a tower from a point on the ground is 30°. If the tower is 20 meters high, find the distance of the point from the base of the tower.",(A) 20√3 meters,(B) 10 meters,(C) 40 meters,(D) 30 meters,(A) 20√3 meters
+Applications of Trigonometry,Easy,"If a 10-meter pole casts a shadow of 10 meters, what is the angle of elevation of the sun?",(A) 30°,(B) 45°,(C) 60°,(D) 90°,(B) 45°
+Applications of Trigonometry,Easy,"The height of a tree is 15 meters, and its shadow is 15√3 meters long. What is the angle of elevation of the sun?",(A) 30°,(B) 45°,(C) 60°,(D) 90°,(A) 30°
+Applications of Trigonometry,Easy,"A ladder leaning against a wall makes an angle of 60° with the ground. If the ladder is 10 meters long, how high does it reach on the wall?",(A) 5 meters,(B) 10 meters,(C) 5√3 meters,(D) 10√3 meters,(C) 5√3 meters
+Applications of Trigonometry,Easy,A person standing 40 meters away from a tower observes its top at an angle of elevation of 45°. Find the height of the tower.,(A) 40 meters,(B) 20 meters,(C) 60 meters,(D) 80 meters,(A) 40 meters
+Applications of Trigonometry,Easy,"The angle of elevation from a boat to the top of a lighthouse is 30°. If the height of the lighthouse is 50 meters, how far is the boat from the base of the lighthouse?",(A) 50 meters,(B) 50√3 meters,(C) 100 meters,(D) 25 meters,(B) 50√3 meters
+Applications of Trigonometry,Easy,A flagpole 8 meters tall casts a shadow of 8√3 meters. What is the angle of elevation of the sun?,(A) 30°,(B) 45°,(C) 60°,(D) 90°,(A) 30°
+Applications of Trigonometry,Easy,"A person standing on the ground looks at the top of a tree at an angle of elevation of 60°. If the tree is 12 meters tall, how far is the person from the base of the tree?",(A) 4√3 meters,(B) 6 meters,(C) 12√3 meters,(D) 24 meters,(A) 4√3 meters
+Applications of Trigonometry,Easy,"If the height of a building is 20 meters and the angle of elevation to its top is 45°, find the horizontal distance from the observer to the base of the building.",(A) 10 meters,(B) 20 meters,(C) 40 meters,(D) 30 meters,(B) 20 meters
+Applications of Trigonometry,Easy,A man observes the top of a tower at an angle of 30° while standing 30 meters away from it. Find the height of the tower.,(A) 30 meters,(B) 30√3 meters,(C) 15 meters,(D) 10 meters,(C) 15 meters
+Applications of Trigonometry,Easy,"A kite is flying at a height of 40 meters above the ground. If the string makes an angle of 60° with the ground, find the length of the string.",(A) 40 meters,(B) 40√3 meters,(C) 80 meters,(D) 60 meters,(B) 40√3 meters
+Applications of Trigonometry,Easy,A ladder of length 12 meters makes an angle of 45° with the ground. How high does it reach on the wall?,(A) 6 meters,(B) 12 meters,(C) 12√2 meters,(D) 6√2 meters,(D) 6√2 meters
+Applications of Trigonometry,Easy,A car is parked 30 meters away from the base of a streetlight. The top of the streetlight is observed at an angle of 45°. Find the height of the streetlight.,(A) 30 meters,(B) 15 meters,(C) 60 meters,(D) 45 meters,(A) 30 meters
+Applications of Trigonometry,Easy,"A person is flying a drone at a height of 25 meters. If the angle of elevation from a point on the ground is 45°, find the horizontal distance of the drone from the point.",(A) 25 meters,(B) 50 meters,(C) 12.5 meters,(D) 35 meters,(A) 25 meters
+Applications of Trigonometry,Easy,A balloon is flying at a height of 30 meters. The angle of elevation of the balloon from a point on the ground is 60°. Find the horizontal distance of the balloon from the observer.,(A) 10 meters,(B) 30√3 meters,(C) 20 meters,(D) 10√3 meters,(D) 10√3 meters
+Applications of Trigonometry,Easy,The angle of elevation of the top of a lamp post from a point 24 meters away from its base is 30°. Find the height of the lamp post.,(A) 12 meters,(B) 24√3 meters,(C) 24 meters,(D) 8 meters,(A) 12 meters
+Applications of Trigonometry,Easy,A man sees the top of a tower at an angle of elevation of 45° from a distance of 50 meters. What is the height of the tower?,(A) 25 meters,(B) 50 meters,(C) 75 meters,(D) 100 meters,(B) 50 meters
+Applications of Trigonometry,Easy,"A boy flying a kite finds that the angle of elevation of the kite is 30°. If the length of the string is 60 meters, find the height of the kite.",(A) 20 meters,(B) 30 meters,(C) 60√3 meters,(D) 30√3 meters,(D) 30√3 meters
+Applications of Trigonometry,Easy,A ladder 15 meters long leans against a wall and makes an angle of 60° with the ground. Find the height the ladder reaches.,(A) 7.5 meters,(B) 15√3 meters,(C) 15 meters,(D) 7.5√3 meters,(C) 15 meters
+Applications of Trigonometry,Easy,A helicopter is hovering at a height of 80 meters. The angle of depression to a boat on the water is 30°. Find the horizontal distance of the boat from the helicopter.,(A) 80 meters,(B) 80√3 meters,(C) 40 meters,(D) 40√3 meters,(B) 80√3 meters
+Applications of Trigonometry,Hard,"From the top of a 100-meter-high cliff, the angles of depression to two boats are 30° and 45°, respectively. Find the distance between the two boats.",(A) 100 meters,(B) 100√3 meters,(C) 100(√3 - 1) meters,(D) 100(√3 + 1) meters,(C) 100(√3 - 1) meters
+Applications of Trigonometry,Hard,A tower 30 meters high is observed from a point at a distance of 40 meters from the base. Find the angle of elevation of the top of the tower.,(A) 37°,(B) 45°,(C) 36.87°,(D) None of these,(C) 36.87°
+Applications of Trigonometry,Hard,The angles of elevation of the top of a tower from two points at a distance of 15 meters and 20 meters from its base are complementary. Find the height of the tower.,(A) 12 meters,(B) 10 meters,(C) 15 meters,(D) None of these,(B) 10 meters
+Applications of Trigonometry,Hard,A man standing at a distance of 50 meters from a tower observes the top at an angle of elevation of 60° and the bottom of a flagpole on top of the tower at 45°. Find the height of the flagpole.,(A) 50 meters,(B) 50(√3 - 1) meters,(C) 50√3 meters,(D) None of these,(B) 50(√3 - 1) meters
+Applications of Trigonometry,Hard,"From the top of a building 60 meters high, the angle of depression to a point on the ground is 30°. Find the horizontal distance to the point.",(A) 120 meters,(B) 60 meters,(C) 60√3 meters,(D) None of these,(C) 60√3 meters
+Applications of Trigonometry,Hard,A tree 10 meters high casts a shadow 10 meters long. Find the angle of elevation of the sun.,(A) 30°,(B) 45°,(C) 60°,(D) 90°,(B) 45°
+Applications of Trigonometry,Hard,Two points are observed from the top of a building 50 meters high. The angles of depression are 30° and 60°. Find the horizontal distance between the two points.,(A) 50 meters,(B) 50√3 meters,(C) 50(√3 - 1) meters,(D) None of these,(C) 50(√3 - 1) meters
+Applications of Trigonometry,Hard,"From a balloon 60 meters high, the angles of depression to two objects on the ground are 30° and 45°, respectively. Find the distance between the two objects.",(A) 60 meters,(B) 60√3 meters,(C) 60(√3 - 1) meters,(D) None of these,(C) 60(√3 - 1) meters
+Applications of Trigonometry,Hard,A person observes the top of a pole at an angle of elevation of 30° from a distance of 10√3 meters. Find the height of the pole.,(A) 10 meters,(B) 10√3 meters,(C) 5 meters,(D) None of these,(A) 10 meters
+Applications of Trigonometry,Hard,The height of a lighthouse is 50 meters. The angles of depression to two ships are 45° and 60°. Find the distance between the two ships.,(A) 50 meters,(B) 50√3 meters,(C) 50(√3 - 1) meters,(D) None of these,(C) 50(√3 - 1) meters
+Applications of Trigonometry,Hard,A man standing at the top of a building 100 meters high observes the top of another building at an angle of elevation of 45° and its bottom at an angle of depression of 30°. Find the height of the other building.,(A) 100 meters,(B) 100√3 meters,(C) 100(√3 - 1) meters,(D) None of these,(C) 100(√3 - 1) meters
+Applications of Trigonometry,Hard,"The angles of elevation of the top of a tower from two points on opposite sides of it are 45° and 60°. If the distance between the two points is 40 meters, find the height of the tower.",(A) 20 meters,(B) 30 meters,(C) 40 meters,(D) None of these,(B) 30 meters
+Applications of Trigonometry,Hard,"From the top of a lighthouse 30 meters high, the angles of depression to two boats are 30° and 45°. Find the distance between the boats.",(A) 30 meters,(B) 30√3 meters,(C) 30(√3 - 1) meters,(D) None of these,(C) 30(√3 - 1) meters
+Applications of Trigonometry,Hard,"A man standing at the top of a hill observes the top of a tree at an angle of depression of 30°. If the hill is 100 meters high and the tree is 50 meters high, find the horizontal distance between them.",(A) 50 meters,(B) 50√3 meters,(C) 50(√3 - 1) meters,(D) None of these,(B) 50√3 meters
+Applications of Trigonometry,Hard,"From the top of a 50-meter-high building, the angle of depression to a car is 30°. Find the distance of the car from the base of the building.",(A) 50√3 meters,(B) 100 meters,(C) 50 meters,(D) None of these,(A) 50√3 meters
+Applications of Trigonometry,Hard,"The angles of elevation of the top of a tree from two points on the ground are 30° and 60°. If the points are 40 meters apart, find the height of the tree.",(A) 20 meters,(B) 40 meters,(C) 30 meters,(D) None of these,(A) 20 meters
+Applications of Trigonometry,Hard,A tower casts a shadow of length 20 meters when the angle of elevation of the sun is 60°. Find the height of the tower.,(A) 20 meters,(B) 20√3 meters,(C) 10√3 meters,(D) None of these,(B) 20√3 meters
+Applications of Trigonometry,Hard,A flagpole casts a shadow of length 15 meters when the angle of elevation of the sun is 30°. Find the height of the flagpole.,(A) 10 meters,(B) 15 meters,(C) 15√3 meters,(D) None of these,(C) 15√3 meters
+Applications of Trigonometry,Hard,"From the top of a 100-meter-high hill, the angle of depression of a car is 30°. Find the distance of the car from the base of the hill.",(A) 50 meters,(B) 50√3 meters,(C) 100√3 meters,(D) None of these,(C) 100√3 meters
+Applications of Trigonometry,Hard,"A ladder leaning against a wall makes an angle of 30° with the ground. If the ladder is 10 meters long, find the height it reaches on the wall.",(A) 5 meters,(B) 5√3 meters,(C) 10 meters,(D) None of these,(B) 5√3 meters
+Applications of Trigonometry,Hard,"From the top of a lighthouse 100 meters high, the angles of depression of two ships are 30° and 45°. Find the distance between the two ships.",(A) 100 meters,(B) 100(√3 - 1) meters,(C) 100(√3 + 1) meters,(D) 50√3 meters,(B) 100(√3 - 1) meters
+Applications of Trigonometry,Hard,Two towers of heights 60m and 80m stand apart on level ground. The angle of elevation of the top of the taller tower from the top of the shorter one is 30°. Find the distance between their bases.,(A) 20√3 meters,(B) 40 meters,(C) 60√3 meters,(D) 80 meters,(C) 60√3 meters
+Applications of Trigonometry,Hard,"A vertical tower is observed from two points on the same side of its base. The angles of elevation at these points are 45° and 60°, and the points are 20m apart. Find the height of the tower.",(A) 40 meters,(B) 20(√3 + 1) meters,(C) 30√3 meters,(D) 60 meters,(B) 20(√3 + 1) meters
+Applications of Trigonometry,Hard,"An observer at point A sees the top of a hill at an elevation of 30°. Moving 100m closer to the base of the hill to point B, the elevation changes to 45°. Find the height of the hill.",(A) 100(√3 + 1) meters,(B) 100(√3 - 1) meters,(C) 50(√3 + 1) meters,(D) 50(√3 - 1) meters,(B) 100(√3 - 1) meters
+Applications of Trigonometry,Hard,"The angle of elevation of an airplane from a point on the ground is 60°. After 10 seconds, the angle becomes 30°. If the plane is flying at a constant altitude of 600m, find the speed of the plane.",(A) 400 m/s,(B) 200√3 m/s,(C) 600√3 m/s,(D) 800 m/s,(C) 600√3 m/s
+Applications of Trigonometry,Hard,"A ladder of length 10m is leaning against a vertical wall. If the ladder slips down by 2m at the top, find how much its base moves.",(A) 3 meters,(B) 4 meters,(C) 5 meters,(D) 6 meters,(B) 4 meters
+Applications of Trigonometry,Hard,Two vertical towers stand apart on level ground. A drone is flying between them at a height of 50m. The angles of depression of the drone from the tops of the towers are 30° and 45°. Find the distance between the towers.,(A) 50(√3 - 1) meters,(B) 50(√3 + 1) meters,(C) 100 meters,(D) 150 meters,(B) 50(√3 + 1) meters
+Applications of Trigonometry,Hard,The angle of elevation of a hot air balloon is 45° from one point and 30° from another 200m closer to the balloon. Find the height of the balloon.,(A) 200(√3 + 1) meters,(B) 200(√3 - 1) meters,(C) 100(√3 + 1) meters,(D) 100(√3 - 1) meters,(B) 200(√3 - 1) meters
+Applications of Trigonometry,Hard,A man on top of a 60m building sees the top of a nearby tower at an angle of elevation of 30° and its base at an angle of depression of 45°. Find the height of the tower.,(A) 120 meters,(B) 60 + 60√3 meters,(C) 60√3 meters,(D) 90 meters,(B) 60 + 60√3 meters
+Applications of Trigonometry,Hard,A radio tower is built on top of a hill 200m high. The angle of elevation of the top of the tower from a point 100m away from the base of the hill is 60°. Find the height of the tower.,(A) 100 meters,(B) 150 meters,(C) 200 meters,(D) 250 meters,(B) 150 meters
+Applications of Trigonometry,Hard,"A lighthouse is observed from a ship at an angle of elevation of 60°. The ship sails 200m towards the lighthouse, and the angle of elevation changes to 75°. Find the height of the lighthouse.",(A) 200(√3 + 1) meters,(B) 200(√3 - 1) meters,(C) 100(√3 + 1) meters,(D) 100(√3 - 1) meters,(C) 100(√3 + 1) meters
+Applications of Trigonometry,Hard,The angle of depression from the top of a 50m cliff to a boat is 30°. The boat moves 100m away from the base of the cliff. Find the new angle of depression.,(A) 15°,(B) 20°,(C) 25°,(D) 30°,(A) 15°
+Applications of Trigonometry,Hard,A drone is flying at a height of 100m. The angle of depression to a car moving directly beneath it changes from 30° to 60° in 5 seconds. Find the speed of the car.,(A) 50 m/s,(B) 100 m/s,(C) 200 m/s,(D) 400 m/s,(A) 50 m/s
+Applications of Trigonometry,Hard,"A vertical tower is 60m high. From a point on the ground, the angle of elevation of its top is 30°. Find the minimum distance a man must walk towards the tower to change the angle of elevation to 60°.",(A) 30 meters,(B) 60 meters,(C) 90 meters,(D) 120 meters,(A) 30 meters
+Applications of Trigonometry,Hard,The length of the shadow of a pole is three times its height when the sun’s elevation is θ. Find θ.,(A) 30°,(B) 45°,(C) 60°,(D) 75°,(A) 30°
+Applications of Trigonometry,Hard,"A mountain peak is observed from two points A and B, 500m apart. The angles of elevation at A and B are 45° and 30° respectively. Find the height of the peak above point A.",(A) 500 meters,(B) 500√3 meters,(C) 1000 meters,(D) 750 meters,(B) 500√3 meters
+Applications of Trigonometry,Hard,"A flagpole on a tower is observed at an angle of elevation of 45°. The angle of elevation of the top of the tower is 30°. If the height of the tower is 100m, find the height of the flagpole.",(A) 50 meters,(B) 100 meters,(C) 150 meters,(D) 200 meters,(A) 50 meters
+Applications of Trigonometry,Hard,"A man on a ship observes a cliff at an angle of elevation of 60°. He sails 300m towards it, and the angle becomes 75°. Find the height of the cliff.",(A) 100 meters,(B) 200 meters,(C) 300 meters,(D) 400 meters,(C) 300 meters
+Applications of Trigonometry,Hard,"A helicopter is flying at a height of 500m. From two points A and B, 1000m apart, the angles of elevation are 45° and 30° respectively. Find the height of the helicopter.",(A) 500 meters,(B) 1000 meters,(C) 1500 meters,(D) 2000 meters,(A) 500 meters
+Applications of Trigonometry,Hard,"The angle of elevation of the top of a hill from a point P is 30°. Moving 400m closer, the angle increases to 45°. Find the height of the hill.",(A) 200 meters,(B) 400 meters,(C) 600 meters,(D) 800 meters,(B) 400 meters
+Applications of Trigonometry,Medium,"A tower is 50 meters high. From a point on the ground, the angle of elevation to the top of the tower is 30°. Find the distance of the point from the base of the tower.",(A) 25√3 meters,(B) 50√3 meters,(C) 75 meters,(D) 100 meters,(B) 50√3 meters
+Applications of Trigonometry,Medium,"A man standing at a point observes the top of a tree at an angle of elevation of 60°. If the height of the tree is 10√3 meters, what is the distance of the man from the base of the tree?",(A) 10 meters,(B) 20 meters,(C) 10√3 meters,(D) 30 meters,(A) 10 meters
+Applications of Trigonometry,Medium,The angle of elevation of the top of a hill from a point 50 meters away is 45°. Find the height of the hill.,(A) 25 meters,(B) 50 meters,(C) 75 meters,(D) 100 meters,(B) 50 meters
+Applications of Trigonometry,Medium,"A ladder 20 meters long leans against a wall, making an angle of 60° with the ground. Find how high the ladder reaches up the wall.",(A) 10 meters,(B) 15 meters,(C) 10√3 meters,(D) 20√3 meters,(C) 10√3 meters
+Applications of Trigonometry,Medium,"The angle of depression of a car from the top of a tower is 30°. If the height of the tower is 40 meters, find the distance of the car from the base of the tower.",(A) 40√3 meters,(B) 20 meters,(C) 30 meters,(D) None of these,(A) 40√3 meters
+Applications of Trigonometry,Medium,"A man on a hill observes a boat at an angle of depression of 45°. If the hill is 100 meters high, find the distance of the boat from the hill.",(A) 50 meters,(B) 100 meters,(C) 150 meters,(D) None of these,(B) 100 meters
+Applications of Trigonometry,Medium,The height of a tree is observed to be 12 meters when viewed from a point 10 meters away. Find the angle of elevation of the top of the tree.,(A) 30°,(B) 45°,(C) 60°,(D) None of these,(C) 60°
+Applications of Trigonometry,Medium,"A ramp is inclined at 45° to the horizontal. If the length of the ramp is 14√2 meters, find the height of the ramp.",(A) 14 meters,(B) 14√2 meters,(C) 28 meters,(D) None of these,(A) 14 meters
+Applications of Trigonometry,Medium,A tower casts a shadow of 20 meters when the angle of elevation of the sun is 30°. Find the height of the tower.,(A) 10 meters,(B) 20 meters,(C) 20√3 meters,(D) None of these,(C) 20√3 meters
+Applications of Trigonometry,Medium,"From the top of a lighthouse, the angle of depression to a boat is 60°. If the lighthouse is 60 meters high, find the distance of the boat from the base of the lighthouse.",(A) 60 meters,(B) 60√3 meters,(C) 120 meters,(D) None of these,(B) 60√3 meters
+Applications of Trigonometry,Medium,"A kite is flying at a height of 45 meters, and its string makes an angle of 60° with the horizontal. Find the length of the string.",(A) 45√3 meters,(B) 45 meters,(C) 90 meters,(D) None of these,(A) 45√3 meters
+Applications of Trigonometry,Medium,"A balloon is flying at a height of 80 meters, and its string makes an angle of 45° with the ground. Find the length of the string.",(A) 80 meters,(B) 80√2 meters,(C) 160 meters,(D) None of these,(B) 80√2 meters
+Applications of Trigonometry,Medium,The top of a building is observed at an angle of elevation of 30° from a point 50 meters away. Find the height of the building.,(A) 25 meters,(B) 50 meters,(C) 50√3 meters,(D) None of these,(A) 25 meters
+Applications of Trigonometry,Medium,"A ladder is placed against a wall making an angle of 30° with the ground. If the ladder reaches a height of 10 meters on the wall, find the length of the ladder.",(A) 20 meters,(B) 10 meters,(C) 10√3 meters,(D) None of these,(C) 10√3 meters
+Applications of Trigonometry,Medium,"From the top of a 40-meter building, the angle of depression to a car on the ground is 60°. Find the distance of the car from the base of the building.",(A) 20 meters,(B) 40 meters,(C) 40√3 meters,(D) None of these,(C) 40√3 meters
+Applications of Trigonometry,Medium,A person observes a tower at an angle of elevation of 60° from a distance of 30 meters. Find the height of the tower.,(A) 30 meters,(B) 30√3 meters,(C) 15 meters,(D) None of these,(B) 30√3 meters
+Applications of Trigonometry,Medium,A tree casts a shadow of 10 meters when the angle of elevation of the sun is 60°. What is the height of the tree?,(A) 10 meters,(B) 10√3 meters,(C) 5√3 meters,(D) None of these,(B) 10√3 meters
+Applications of Trigonometry,Medium,The angle of depression of a boat from a cliff 80 meters high is 30°. Find the horizontal distance of the boat from the base of the cliff.,(A) 80 meters,(B) 80√3 meters,(C) 40√3 meters,(D) None of these,(B) 80√3 meters
+Applications of Trigonometry,Medium,"A ramp is inclined at an angle of 30° with the horizontal. If the vertical height of the ramp is 5 meters, find the length of the ramp.",(A) 5√3 meters,(B) 10 meters,(C) 15 meters,(D) None of these,(B) 10 meters
+Applications of Trigonometry,Medium,"From the top of a lighthouse 50 meters high, the angle of depression to a boat is 30°. Find the horizontal distance of the boat from the base of the lighthouse.",(A) 50 meters,(B) 50√3 meters,(C) 25 meters,(D) None of these,(B) 50√3 meters
+Applications of Trigonometry,Medium,"The top of a tower is observed from a point on the ground at an angle of elevation of 60°. If the height of the tower is 30 meters, find the distance of the observer from the base of the tower.",(A) 10√3 meters,(B) 30√3 meters,(C) 15√3 meters,(D) 60 meters,(C) 15√3 meters
+Applications of Trigonometry,Medium,"A kite is flying at a height of 50 meters. If the angle of elevation of the kite from a point on the ground is 45°, find the length of the string assuming it is straight.",(A) 50√2 meters,(B) 100 meters,(C) 50 meters,(D) 25√2 meters,(A) 50√2 meters
+Applications of Trigonometry,Medium,The angle of elevation of a bird flying at a height of 80 meters from a point on the ground is 30°. Find the horizontal distance of the bird from the observer.,(A) 80√3 meters,(B) 40√3 meters,(C) 80 meters,(D) 160 meters,(B) 40√3 meters
+Applications of Trigonometry,Medium,The shadow of a 12-meter-high pole is 4√3 meters long. Find the angle of elevation of the sun.,(A) 30°,(B) 45°,(C) 60°,(D) 90°,(C) 60°
+Applications of Trigonometry,Medium,"The angle of elevation of a hilltop from a point on the ground is 30°. If the horizontal distance between the observer and the hill is 100 meters, find the height of the hill.",(A) 100√3 meters,(B) 50 meters,(C) 50√3 meters,(D) 150 meters,(C) 50√3 meters
+Applications of Trigonometry,Medium,"A ladder leans against a vertical wall making an angle of 75° with the ground. If the foot of the ladder is 4 meters from the wall, find the length of the ladder.",(A) 16 meters,(B) 12 meters,(C) 15 meters,(D) 4/sin(75°) meters,(D) 4/sin(75°) meters
+Applications of Trigonometry,Medium,"A tower is 50 meters high. If the angle of depression from the top of the tower to a point on the ground is 45°, find the distance of the point from the base of the tower.",(A) 50 meters,(B) 25√3 meters,(C) 50√2 meters,(D) 100 meters,(A) 50 meters
+Applications of Trigonometry,Medium,"The angles of elevation of the top of a lighthouse from two ships on opposite sides are 30° and 60°. If the lighthouse is 90 meters high, find the distance between the two ships.",(A) 60 meters,(B) 90 meters,(C) 120 meters,(D) 150 meters,(C) 120 meters
+Applications of Trigonometry,Medium,A man at the top of a building 20 meters high observes the top of another building at an angle of elevation of 30° and its base at an angle of depression of 45°. Find the height of the second building.,(A) 40 meters,(B) 20 + 20√3 meters,(C) 20√3 meters,(D) 60 meters,(B) 20 + 20√3 meters
+Applications of Trigonometry,Medium,"A road rises at an angle of 5° from the horizontal. If a car travels 200 meters along the road, how much altitude does it gain?",(A) 200 sin(5°) meters,(B) 10 meters,(C) 20 meters,(D) 200 cos(5°) meters,(A) 200 sin(5°) meters
+Applications of Trigonometry,Medium,A helicopter is flying at a height of 120 meters above the ground. The angle of depression to a boat on the sea is 60°. Find the distance of the boat from the point directly below the helicopter.,(A) 60 meters,(B) 120√3 meters,(C) 240 meters,(D) 180 meters,(B) 120√3 meters
+Applications of Trigonometry,Medium,A pole of height 20 meters stands on a building 50 meters high. Find the angle of elevation of the top of the pole from a point 70 meters away from the base of the building.,(A) 30°,(B) 45°,(C) 60°,(D) 75°,(B) 45°
+Applications of Trigonometry,Medium,"A ship is sailing away from a lighthouse. The angle of elevation of the top of the lighthouse changes from 60° to 30° in 10 minutes. If the lighthouse is 100 meters high, find the distance traveled by the ship in 10 minutes.",(A) 100√3 meters,(B) 200 meters,(C) 100 meters,(D) 300 meters,(A) 100√3 meters
+Applications of Trigonometry,Medium,"The angle of elevation of an airplane from a point on the ground is 45°. If the airplane is flying at a height of 5000 meters, find its horizontal distance from the observer.",(A) 5000 meters,(B) 5000√2 meters,(C) 2500 meters,(D) 10000 meters,(A) 5000 meters
+Applications of Trigonometry,Medium,"A flagpole stands on the top of a building. The angle of elevation of the top of the flagpole is 60° and the angle of elevation of the top of the building is 45° from a point on the ground. If the height of the building is 50 meters, find the height of the flagpole.",(A) 50 meters,(B) 50√3 meters,(C) 25 meters,(D) 75 meters,(C) 25 meters
+Applications of Trigonometry,Medium,A tree of height 30 meters casts a shadow of 30 meters. Find the angle of elevation of the sun.,(A) 30°,(B) 45°,(C) 60°,(D) 90°,(B) 45°
+Applications of Trigonometry,Medium,A hot air balloon is floating 80 meters above the ground. The angle of depression from the balloon to a person standing some distance away is 45°. Find the horizontal distance of the person from the balloon.,(A) 80 meters,(B) 80√2 meters,(C) 40 meters,(D) 100 meters,(A) 80 meters
+Applications of Trigonometry,Medium,The shadow of a building is three times its height when the angle of elevation of the sun is θ. Find θ.,(A) 30°,(B) 45°,(C) 60°,(D) 75°,(A) 30°
+Applications of Trigonometry,Medium,A lighthouse is 150 meters tall. A boat observes the top of the lighthouse at an angle of elevation of 45°. Find the distance of the boat from the lighthouse.,(A) 150 meters,(B) 150√2 meters,(C) 75 meters,(D) 300 meters,(B) 150√2 meters
+Applications of Trigonometry,Medium,A tower is 120 meters high. The angles of elevation of its top from two points on opposite sides of the tower are 30° and 60°. Find the distance between the two points.,(A) 120 meters,(B) 120√3 meters,(C) 240 meters,(D) 360 meters,(C) 240 meters
+Probability,Easy,What is the probability of getting a head when tossing a fair coin?,(A) 1/2,(B) 1/3,(C) 1/4,(D) 2/3,(A) 1/2
+Probability,Easy,What is the probability of rolling a 6 on a fair die?,(A) 1/6,(B) 1/3,(C) 1/4,(D) 1/2,(A) 1/6
+Probability,Easy,"If a card is drawn from a standard deck, what is the probability of getting a king?",(A) 1/13,(B) 1/26,(C) 1/52,(D) 1/4,(A) 1/13
+Probability,Easy,A bag contains 3 red and 5 blue balls. What is the probability of drawing a red ball?,(A) 3/8,(B) 5/8,(C) 1/2,(D) 3/5,(A) 3/8
+Probability,Easy,What is the probability of getting an even number when rolling a fair six-sided die?,(A) 1/2,(B) 1/3,(C) 2/3,(D) 1/6,(A) 1/2
+Probability,Easy,A number is chosen at random from 1 to 10. What is the probability of choosing a prime number?,(A) 4/10,(B) 3/10,(C) 5/10,(D) 2/10,(A) 4/10
+Probability,Easy,What is the probability of getting a sum of 7 when rolling two fair dice?,(A) 1/6,(B) 1/12,(C) 1/8,(D) 1/9,(A) 1/6
+Probability,Easy,A bag contains 4 white and 6 black balls. What is the probability of drawing a white ball?,(A) 2/5,(B) 3/5,(C) 4/10,(D) 6/10,(A) 2/5
+Probability,Easy,A card is drawn from a standard deck. What is the probability of getting a red card?,(A) 1/2,(B) 1/4,(C) 1/3,(D) 3/4,(A) 1/2
+Probability,Easy,What is the probability of getting at least one head in two tosses of a fair coin?,(A) 3/4,(B) 1/4,(C) 1/2,(D) 2/3,(A) 3/4
+Probability,Easy,A die is rolled. What is the probability of getting a number greater than 4?,(A) 1/3,(B) 1/2,(C) 2/3,(D) 1/6,(A) 1/3
+Probability,Easy,"A bag contains 2 red, 3 green, and 5 blue balls. What is the probability of drawing a green ball?",(A) 3/10,(B) 2/10,(C) 5/10,(D) 4/10,(A) 3/10
+Probability,Easy,Two dice are rolled. What is the probability of getting a sum of 8?,(A) 5/36,(B) 4/36,(C) 6/36,(D) 3/36,(A) 5/36
+Probability,Easy,A number is chosen at random from 1 to 20. What is the probability of getting a multiple of 5?,(A) 1/4,(B) 1/5,(C) 1/6,(D) 1/3,(A) 1/4
+Probability,Easy,What is the probability of drawing an ace from a standard deck of 52 cards?,(A) 1/13,(B) 1/26,(C) 1/52,(D) 1/4,(A) 1/13
+Probability,Easy,A coin is tossed three times. What is the probability of getting exactly two heads?,(A) 3/8,(B) 1/8,(C) 5/8,(D) 1/4,(A) 3/8
+Probability,Easy,A letter is chosen at random from the word 'PROBABILITY'. What is the probability of getting a vowel?,(A) 4/10,(B) 3/10,(C) 5/10,(D) 2/10,(A) 4/10
+Probability,Easy,"A bag contains 3 red, 4 blue, and 5 green balls. What is the probability of drawing a blue or green ball?",(A) 3/4,(B) 1/2,(C) 2/3,(D) 3/5,(A) 3/4
+Probability,Easy,"A bag contains 4 red, 5 blue, and 6 green balls. What is the probability of drawing a red or blue ball?",(A) 9/15,(B) 4/15,(C) 5/15,(D) 6/15,(A) 9/15
+Probability,Easy,Two dice are rolled. What is the probability of getting a sum less than 5?,(A) 1/6,(B) 5/36,(C) 1/3,(D) 7/36,(D) 7/36
+Probability,Easy,"A deck of 52 cards is shuffled. What is the probability of drawing a face card (Jack, Queen, King)?",(A) 3/13,(B) 1/13,(C) 9/52,(D) 4/13,(A) 3/13
+Probability,Easy,What is the probability of drawing a heart from a deck of 52 cards?,(A) 1/4,(B) 1/2,(C) 1/3,(D) 1/13,(A) 1/4
+Probability,Easy,A fair die is rolled. What is the probability of rolling an odd number?,(A) 1/2,(B) 1/3,(C) 2/3,(D) 1/6,(A) 1/2
+Probability,Easy,"A bag contains 2 red, 3 blue, and 4 green balls. If a ball is drawn randomly, what is the probability that it is not red?",(A) 7/9,(B) 2/9,(C) 4/9,(D) 5/9,(A) 7/9
+Probability,Easy,What is the probability of getting a sum of 9 when rolling two dice?,(A) 1/9,(B) 1/6,(C) 1/12,(D) 1/8,(A) 1/9
+Probability,Easy,A coin is tossed four times. What is the probability of getting exactly two heads?,(A) 3/8,(B) 6/16,(C) 4/16,(D) 1/4,(B) 6/16
+Probability,Easy,"A bag contains 3 white, 4 black, and 5 red balls. What is the probability of drawing a black ball?",(A) 4/12,(B) 1/3,(C) 5/12,(D) 3/12,(A) 4/12
+Probability,Easy,"A class has 30 students, 18 boys and 12 girls. If a student is chosen at random, what is the probability that the student is a girl?",(A) 12/30,(B) 18/30,(C) 1/3,(D) 2/3,(A) 12/30
+Probability,Easy,A number is selected from 1 to 50. What is the probability of selecting a number divisible by 5?,(A) 10/50,(B) 1/5,(C) 12/50,(D) 2/5,(B) 1/5
+Probability,Easy,What is the probability of getting a prime number when rolling a six-sided die?,(A) 1/2,(B) 1/3,(C) 2/3,(D) 1/6,(A) 1/2
+Probability,Easy,A fair coin is flipped 3 times. What is the probability of getting exactly one head?,(A) 3/8,(B) 1/8,(C) 5/8,(D) 1/4,(A) 3/8
+Probability,Easy,Two fair dice are rolled. What is the probability of getting a double (same number on both dice)?,(A) 1/6,(B) 1/12,(C) 1/8,(D) 1/9,(A) 1/6
+Probability,Easy,"A box contains 5 red, 3 blue, and 2 green balls. A ball is drawn at random. What is the probability of drawing a blue ball?",(A) 3/10,(B) 1/5,(C) 2/5,(D) 4/5,(A) 3/10
+Probability,Easy,"If a letter is chosen randomly from the word 'STATISTICS', what is the probability of getting an 'S'?",(A) 3/10,(B) 4/10,(C) 5/10,(D) 6/10,(B) 4/10
+Probability,Easy,"In a lottery, there are 10 tickets and only one winning ticket. What is the probability of selecting the winning ticket?",(A) 1/10,(B) 2/10,(C) 1/5,(D) 3/10,(A) 1/10
+Probability,Easy,What is the probability of drawing a number greater than 4 when rolling a fair six-sided die?,(A) 1/3,(B) 1/2,(C) 2/3,(D) 1/6,(B) 1/3
+Probability,Easy,A student guesses on a 4-option multiple-choice question. What is the probability of guessing correctly?,(A) 1/4,(B) 1/3,(C) 1/2,(D) 1/5,(A) 1/4
+Probability,Easy,"If you randomly select a month of the year, what is the probability of selecting February?",(A) 1/12,(B) 1/6,(C) 1/4,(D) 1/10,(A) 1/12
+Probability,Easy,"A bag contains 3 red, 5 green, and 2 blue balls. What is the probability of not drawing a red ball?",(A) 7/10,(B) 3/10,(C) 2/5,(D) 1/2,(A) 7/10
+Probability,Easy,A fair die is rolled. What is the probability of getting a number less than 4?,(A) 1/2,(B) 1/3,(C) 2/3,(D) 1/6,(A) 1/2
+Probability,Easy,"A bag contains 6 red, 4 blue, and 5 green balls. What is the probability of drawing a red ball?",(A) 6/15,(B) 4/15,(C) 5/15,(D) 7/15,(A) 6/15
+Probability,Easy,"If a coin is tossed twice, what is the probability of getting at least one head?",(A) 3/4,(B) 1/4,(C) 1/2,(D) 1/3,(A) 3/4
+Probability,Easy,A student guesses on a 5-option multiple-choice question. What is the probability of guessing correctly?,(A) 1/5,(B) 1/4,(C) 1/3,(D) 1/2,(A) 1/5
+Probability,Easy,What is the probability of getting a prime number when rolling a fair six-sided die?,(A) 1/2,(B) 1/3,(C) 2/3,(D) 1/6,(A) 1/2
+Probability,Easy,"A box contains 10 pens, 3 of which are defective. If a pen is selected at random, what is the probability that it is not defective?",(A) 7/10,(B) 3/10,(C) 1/5,(D) 1/3,(A) 7/10
+Probability,Hard,"If three fair dice are rolled, what is the probability of getting a sum of 6?",(A) 10/216,(B) 5/216,(C) 15/216,(D) 20/216,(A) 10/216
+Probability,Hard,"A box contains 7 red, 5 green, and 3 blue balls. Two balls are drawn without replacement. What is the probability that both are green?",(A) 10/105,(B) 6/105,(C) 20/105,(D) 15/105,(A) 10/105
+Probability,Hard,A fair die is rolled 4 times. What is the probability of rolling a 6 at least once?,(A) 671/1296,(B) 625/1296,(C) 891/1296,(D) 1/6,(A) 671/1296
+Probability,Hard,A fair coin is tossed 7 times. What is the probability of getting exactly 4 heads?,(A) 35/128,(B) 21/128,(C) 42/128,(D) 25/128,(A) 35/128
+Probability,Hard,A deck of 52 cards is shuffled. What is the probability of drawing two consecutive aces without replacement?,(A) 1/221,(B) 1/169,(C) 2/221,(D) 1/13,(A) 1/221
+Probability,Hard,Three fair dice are rolled. What is the probability of getting a sum of exactly 9?,(A) 25/216,(B) 21/216,(C) 29/216,(D) 18/216,(B) 21/216
+Probability,Hard,A coin is tossed 6 times. What is the probability of getting exactly 3 heads?,(A) 5/16,(B) 10/64,(C) 20/64,(D) 1/4,(C) 20/64
+Probability,Hard,A fair die is rolled 4 times. What is the probability of rolling at least one '1'?,(A) 625/1296,(B) 671/1296,(C) 891/1296,(D) 1/6,(B) 671/1296
+Probability,Hard,Two cards are drawn from a shuffled deck of 52. What is the probability that both are Aces?,(A) 1/221,(B) 2/221,(C) 1/169,(D) 1/13,(A) 1/221
+Probability,Hard,Three dice are rolled. What is the probability of getting a sum of exactly 7?,(A) 15/216,(B) 21/216,(C) 25/216,(D) 10/216,(B) 21/216
+Probability,Hard,"A bag contains 5 red, 6 green, and 4 blue balls. Two balls are drawn without replacement. What is the probability that both are green?",(A) 6/35,(B) 5/35,(C) 10/35,(D) 4/35,(A) 6/35
+Probability,Hard,A fair die is rolled 5 times. What is the probability that at least one roll results in a '6'?,(A) 3125/7776,(B) 5400/7776,(C) 5415/7776,(D) 6425/7776,(C) 5415/7776
+Probability,Hard,"In a class of 50 students, 30 like mathematics and 25 like science. If 10 like both, what is the probability that a randomly chosen student likes either mathematics or science?",(A) 9/10,(B) 7/10,(C) 4/5,(D) 3/5,(C) 4/5
+Probability,Hard,"A box contains 6 red, 4 blue, and 5 green balls. Two balls are drawn randomly. What is the probability that both are red?",(A) 1/7,(B) 2/7,(C) 1/5,(D) 1/3,(B) 2/7
+Probability,Hard,A fair die is rolled twice. What is the probability that the first roll is even and the second roll is odd?,(A) 1/4,(B) 1/3,(C) 1/2,(D) 1/6,(C) 1/2
+Probability,Hard,"A bag contains 8 red and 4 blue balls. If two balls are drawn at random, what is the probability that at least one is blue?",(A) 2/11,(B) 7/11,(C) 5/11,(D) 9/11,(B) 7/11
+Probability,Hard,Two dice are rolled. What is the probability that their sum is greater than 8?,(A) 5/18,(B) 13/36,(C) 7/36,(D) 1/3,(B) 13/36
+Probability,Hard,"A school has 60% boys and 40% girls. If a student is chosen at random, what is the probability that it is a girl?",(A) 2/5,(B) 3/5,(C) 1/2,(D) 3/4,(A) 2/5
+Probability,Hard,"In a deck of 52 cards, what is the probability of drawing a face card (King, Queen, or Jack)?",(A) 3/13,(B) 1/4,(C) 1/3,(D) 5/12,(A) 3/13
+Probability,Hard,A coin is tossed 4 times. What is the probability of getting exactly 3 heads?,(A) 3/16,(B) 1/4,(C) 1/2,(D) 5/16,(D) 5/16
+Probability,Hard,Three cards are drawn from a standard deck of 52. What is the probability that all three are Aces?,(A) 1/5525,(B) 1/221,(C) 1/1325,(D) 1/5000,(B) 1/221
+Probability,Hard,A family has three children. What is the probability that at least one of them is a boy?,(A) 1/4,(B) 3/4,(C) 7/8,(D) 1/2,(C) 7/8
+Probability,Hard,"A bag contains 3 white, 5 black, and 7 red balls. Two balls are drawn at random. What is the probability that they are of different colors?",(A) 37/49,(B) 25/49,(C) 12/49,(D) 15/49,(A) 37/49
+Probability,Hard,"A school has 40 students in a class, 25 of whom are boys. If two students are chosen at random, what is the probability that both are boys?",(A) 3/5,(B) 5/13,(C) 4/7,(D) 12/23,(B) 5/13
+Probability,Hard,"A box contains 4 red and 6 black balls. A ball is drawn, its color is noted, and it is put back. This is done twice. What is the probability of getting exactly one red ball?",(A) 12/25,(B) 16/25,(C) 4/25,(D) 8/25,(A) 12/25
+Probability,Hard,A fair coin is tossed 8 times. What is the probability of getting at least one head?,(A) 127/128,(B) 63/128,(C) 1/2,(D) 7/8,(A) 127/128
+Probability,Hard,Three friends randomly sit in a row. What is the probability that they sit in alphabetical order?,(A) 1/3,(B) 1/6,(C) 1/2,(D) 2/5,(B) 1/6
+Probability,Hard,A number is chosen randomly from 1 to 50. What is the probability that it is divisible by 5 or 7?,(A) 2/5,(B) 1/4,(C) 11/50,(D) 13/50,(D) 13/50
+Probability,Hard,"A company has 8 managers and 10 employees. If a committee of 3 is chosen at random, what is the probability that it has at least one manager?",(A) 15/17,(B) 5/17,(C) 12/17,(D) 7/17,(A) 15/17
+Probability,Hard,"If two fair dice are rolled, what is the probability that the sum is a prime number?",(A) 5/12,(B) 7/18,(C) 9/25,(D) 3/8,(A) 5/12
+Probability,Hard,A group of 5 people are randomly seated in a row. What is the probability that two specific people sit together?,(A) 2/5,(B) 3/5,(C) 4/5,(D) 1/2,(B) 3/5
+Probability,Hard,"A box contains 3 defective and 7 non-defective bulbs. If two are drawn randomly, what is the probability that both are defective?",(A) 3/10,(B) 1/15,(C) 1/5,(D) 3/25,(B) 1/15
+Probability,Hard,A committee of 3 people is chosen from 5 men and 3 women. What is the probability that the committee includes at least one woman?,(A) 4/5,(B) 5/7,(C) 6/7,(D) 7/8,(C) 6/7
+Probability,Hard,"A bag contains 6 red, 8 blue, and 10 green balls. If two balls are drawn without replacement, what is the probability that one is red and the other is blue?",(A) 24/112,(B) 30/112,(C) 48/112,(D) 60/112,(B) 30/112
+Probability,Hard,"In a deck of 52 cards, what is the probability of drawing a red card or a face card?",(A) 1/2,(B) 3/13,(C) 1/4,(D) 25/52,(D) 25/52
+Probability,Hard,"A box contains 5 white, 5 black, and 5 yellow balls. If 3 balls are drawn without replacement, what is the probability that all 3 balls are of the same color?",(A) 1/22,(B) 1/11,(C) 3/22,(D) 1/7,(A) 1/22
+Probability,Hard,"A jar contains 6 red, 5 green, and 9 blue marbles. If 4 marbles are drawn randomly, what is the probability that exactly two of them are red?",(A) 15/66,(B) 10/66,(C) 5/66,(D) 25/66,(B) 10/66
+Probability,Hard,A person randomly selects 3 out of 5 red balls and 4 out of 6 green balls. What is the probability that the selected red balls are all from the same box?,(A) 1/4,(B) 1/2,(C) 3/5,(D) 1/5,(D) 1/5
+Probability,Hard,A coin is tossed 6 times. What is the probability that exactly 2 heads are obtained?,(A) 15/64,(B) 10/64,(C) 6/64,(D) 20/64,(B) 10/64
+Probability,Hard,"A bag contains 10 red, 15 green, and 25 yellow balls. What is the probability of drawing 2 yellow balls in succession without replacement?",(A) 5/13,(B) 1/6,(C) 2/13,(D) 3/13,(C) 2/13
+Probability,Hard,"A spinner has 5 equal sectors: red, blue, green, yellow, and purple. What is the probability of landing on red or blue?",(A) 1/2,(B) 1/3,(C) 2/5,(D) 1/5,(C) 2/5
+Probability,Hard,"A box contains 4 red, 3 blue, and 5 green balls. If 4 balls are drawn at random, what is the probability that exactly two are red?",(A) 9/56,(B) 7/56,(C) 5/56,(D) 3/56,(A) 9/56
+Probability,Hard,"In a group of 20 people, 8 are wearing glasses and 12 are not. What is the probability that two randomly selected people are both wearing glasses?",(A) 2/19,(B) 4/19,(C) 5/19,(D) 7/19,(A) 2/19
+Probability,Hard,A committee of 5 people is formed from a group of 10 men and 15 women. What is the probability that the committee has exactly 3 men?,(A) 10/85,(B) 15/85,(C) 25/85,(D) 35/85,(C) 25/85
+Probability,Hard,A die is rolled 4 times. What is the probability that the first roll is a 1 and the remaining rolls are not 1?,(A) 1/16,(B) 1/81,(C) 1/36,(D) 1/6,(B) 1/81
+Probability,Hard,A deck contains 52 cards. What is the probability of drawing exactly 3 red cards in a row without replacement?,(A) 0.019,(B) 0.021,(C) 0.023,(D) 0.025,(A) 0.019
+Probability,Hard,"A bag contains 10 white, 8 black, and 12 blue balls. Two balls are drawn at random. What is the probability that one ball is black and the other is blue?",(A) 8/90,(B) 6/90,(C) 10/90,(D) 12/90,(A) 8/90
+Probability,Hard,"In a box of 1000 balls, 250 are red, 500 are green, and 250 are blue. If 3 balls are drawn without replacement, what is the probability that all 3 are green?",(A) 0.12,(B) 0.15,(C) 0.18,(D) 0.2,(B) 0.15
+Probability,Hard,"A lottery has 1000 tickets, and 3 tickets will be drawn. What is the probability that a specific person wins the lottery?",(A) 3/1000,(B) 1/1000,(C) 1/500,(D) 1/100,(A) 3/1000
+Probability,Hard,A group of 6 people is to be seated in a row. What is the probability that two specific people are seated next to each other?,(A) 1/6,(B) 1/5,(C) 1/4,(D) 1/3,(B) 1/5
+Probability,Medium,Two cards are drawn from a standard deck without replacement. What is the probability that both are aces?,(A) 1/221,(B) 1/13,(C) 1/26,(D) 2/51,(A) 1/221
+Probability,Medium,A coin is tossed five times. What is the probability of getting at least one head?,(A) 31/32,(B) 1/2,(C) 3/4,(D) 5/8,(A) 31/32
+Probability,Medium,Two fair dice are rolled. What is the probability of getting a sum of 10?,(A) 3/36,(B) 4/36,(C) 5/36,(D) 6/36,(B) 3/36
+Probability,Medium,A fair coin is flipped 5 times. What is the probability of getting all heads?,(A) 1/32,(B) 1/16,(C) 1/8,(D) 1/64,(A) 1/32
+Probability,Medium,"If a number is randomly selected from 1 to 100, what is the probability of selecting a multiple of 7?",(A) 14/100,(B) 1/7,(C) 15/100,(D) 7/100,(B) 1/7
+Probability,Medium,A card is drawn from a standard deck. What is the probability of drawing a non-face card?,(A) 10/13,(B) 1/2,(C) 3/13,(D) 1/4,(A) 10/13
+Probability,Medium,Two dice are rolled. What is the probability that at least one die shows a 3?,(A) 11/36,(B) 7/36,(C) 8/36,(D) 5/36,(A) 11/36
+Probability,Medium,A bag contains 8 white and 4 black balls. Two balls are drawn randomly. What is the probability that both are white?,(A) 14/33,(B) 16/33,(C) 8/33,(D) 10/33,(B) 16/33
+Probability,Medium,A fair die is rolled twice. What is the probability of getting at least one even number?,(A) 3/4,(B) 1/2,(C) 2/3,(D) 5/6,(A) 3/4
+Probability,Medium,Three coins are tossed. What is the probability of getting at least one tail?,(A) 7/8,(B) 5/8,(C) 3/4,(D) 1/2,(A) 7/8
+Probability,Medium,A fair die is rolled twice. What is the probability of getting a sum of 8?,(A) 5/36,(B) 4/36,(C) 6/36,(D) 3/36,(A) 5/36
+Probability,Medium,"In a deck of 52 cards, what is the probability of drawing a King or a Queen?",(A) 2/13,(B) 1/13,(C) 3/13,(D) 1/26,(A) 2/13
+Probability,Medium,A coin is tossed 4 times. What is the probability of getting exactly two heads?,(A) 6/16,(B) 4/16,(C) 3/8,(D) 5/16,(A) 6/16
+Probability,Medium,"A bag contains 3 white, 4 black, and 5 red balls. What is the probability of drawing a black or red ball?",(A) 9/12,(B) 7/12,(C) 5/12,(D) 4/12,(A) 9/12
+Probability,Medium,A fair die is rolled three times. What is the probability of getting at least one '6'?,(A) 91/216,(B) 125/216,(C) 81/216,(D) 1/3,(B) 125/216
+Probability,Medium,"In a class of 40 students, 25 are boys. If a student is randomly selected, what is the probability that the student is a girl?",(A) 15/40,(B) 1/2,(C) 3/8,(D) 5/8,(A) 15/40
+Probability,Medium,A group of 6 people is to be seated in a row. What is the probability that two specific people are seated next to each other?,(A) 1/6,(B) 1/5,(C) 1/4,(D) 1/3,(B) 1/5
+Probability,Medium,"In a lottery, 5 tickets are sold, and 2 of them are winning tickets. What is the probability that one specific ticket is a winning ticket?",(A) 1/5,(B) 1/2,(C) 2/5,(D) 1/3,(A) 1/5
+Probability,Medium,"A box contains 3 red balls, 4 green balls, and 5 blue balls. What is the probability of drawing a green ball?",(A) 4/12,(B) 1/3,(C) 1/4,(D) 1/2,(A) 4/12
+Probability,Medium,What is the probability of getting a sum of 7 when rolling two fair dice?,(A) 1/6,(B) 1/8,(C) 1/12,(D) 1/36,(A) 1/6
+Probability,Medium,"If a coin is tossed 3 times, what is the probability of getting exactly two heads?",(A) 3/8,(B) 1/2,(C) 1/4,(D) 1/6,(A) 3/8
+Probability,Medium,"In a deck of 52 cards, what is the probability of drawing a Queen?",(A) 1/13,(B) 1/52,(C) 1/4,(D) 1/12,(A) 1/13
+Probability,Medium,A die is rolled. What is the probability of getting a number greater than 4?,(A) 1/3,(B) 1/2,(C) 1/6,(D) 1/4,(A) 1/3
+Probability,Medium,"In a bag of 10 balls, 4 are red, 3 are blue, and 3 are green. What is the probability of drawing a blue ball?",(A) 3/10,(B) 2/5,(C) 1/3,(D) 1/5,(A) 3/10
+Probability,Medium,"If you pick two cards at random from a deck of 52 cards, what is the probability that both cards are aces?",(A) 1/221,(B) 1/1326,(C) 1/169,(D) 1/1692,(A) 1/221
+Probability,Medium,"A bag contains 5 red balls and 5 black balls. If two balls are drawn without replacement, what is the probability that both are red?",(A) 1/10,(B) 5/45,(C) 4/45,(D) 1/9,(C) 4/45
+Probability,Medium,"A box contains 10 red balls, 6 blue balls, and 4 green balls. What is the probability of drawing a red ball?",(A) 10/20,(B) 1/2,(C) 1/5,(D) 1/3,(A) 10/20
+Probability,Medium,"In a pack of 52 cards, what is the probability of drawing a card that is either a Jack or a heart?",(A) 4/52,(B) 17/52,(C) 13/52,(D) 1/52,(B) 17/52
+Probability,Medium,"A jar contains 5 red marbles, 8 green marbles, and 3 blue marbles. If one marble is drawn at random, what is the probability it is not blue?",(A) 8/16,(B) 12/16,(C) 11/16,(D) 7/16,(C) 11/16
+Probability,Medium,What is the probability of rolling an even number on a fair 6-sided die?,(A) 1/6,(B) 1/3,(C) 1/2,(D) 1/4,(C) 1/2
+Probability,Medium,"If you roll two dice, what is the probability of getting a sum of 8?",(A) 5/36,(B) 1/12,(C) 1/6,(D) 1/8,(A) 5/36
+Probability,Medium,"In a group of 10 people, what is the probability that 2 people will share the same birthday?",(A) 1/365,(B) 1/100,(C) 1/2,(D) 1/23,(D) 1/23
+Probability,Medium,"A bag contains 4 yellow, 3 red, and 2 green balls. If two balls are drawn at random, what is the probability both are yellow?",(A) 4/36,(B) 1/15,(C) 6/36,(D) 2/9,(A) 4/36
+Probability,Medium,"A box contains 5 black balls, 3 white balls, and 2 red balls. What is the probability of picking a white or black ball?",(A) 8/10,(B) 5/10,(C) 7/10,(D) 9/10,(C) 7/10
+Probability,Medium,"In a game of dice, you roll a fair die. What is the probability of rolling a number greater than 4?",(A) 1/6,(B) 2/6,(C) 1/3,(D) 1/2,(C) 1/3
+Quadratic Equations,Easy,The standard form of a quadratic equation is:,(A) ax^2 + bx + c = 0,(B) ax + b = 0,(C) ax^2 + bx = 0,(D) ax^2 + c = 0,(A) ax^2 + bx + c = 0
+Quadratic Equations,Easy,The roots of x^2 - 12x + 35 = 0 are:,(A) 5 and 7,(B) -5 and -7,(C) 5 and -7,(D) -5 and 7,(A) 5 and 7
+Quadratic Equations,Easy,If D = 0 the roots are:,(A) Real and equal,(B) Real and unequal,(C) Imaginary,(D) Cannot be determined,(A) Real and equal
+Quadratic Equations,Easy,The quadratic equation with roots -1 and 4 is:,(A) x^2 - 3x - 4 = 0,(B) x^2 + 3x - 4 = 0,(C) x^2 - 3x + 4 = 0,(D) x^2 + 3x + 4 = 0,(A) x^2 - 3x - 4 = 0
+Quadratic Equations,Easy,For equal roots the discriminant is:,(A) Zero,(B) Positive,(C) Negative,(D) Any real number,(A) Zero
+Quadratic Equations,Easy,The roots of x^2 + 10x + 21 = 0 are:,(A) -3 and -7,(B) 3 and 7,(C) 3 and -7,(D) -3 and 7,(A) -3 and -7
+Quadratic Equations,Easy,If one root of 3x^2 + kx - 2 = 0 is 1 k is:,(A) -1,(B) -2,(C) 1,(D) 2,(A) -1
+Quadratic Equations,Easy,The sum of roots of 5x^2 - 6x + 1 = 0 is:,(A) 1.2,(B) -1.2,(C) 0.2,(D) -0.2,(A) 1.2
+Quadratic Equations,Easy,The product of roots of 2x^2 + 9x - 5 = 0 is:,(A) -2.5,(B) 2.5,(C) 4.5,(D) -4.5,(A) -2.5
+Quadratic Equations,Easy,If D < 0 the roots are:,(A) Imaginary,(B) Real and equal,(C) Real and unequal,(D) Cannot be determined,(A) Imaginary
+Quadratic Equations,Easy,The roots of x^2 - 14x + 49 = 0 are:,(A) Real and equal,(B) Real and unequal,(C) Imaginary,(D) None of these,(A) Real and equal
+Quadratic Equations,Easy,The roots of x^2 - 13x + 40 = 0 are:,(A) 5 and 8,(B) -5 and -8,(C) 5 and -8,(D) -5 and 8,(A) 5 and 8
+Quadratic Equations,Easy,If the discriminant of a quadratic equation is zero the roots are:,(A) Real and equal,(B) Real and unequal,(C) Imaginary,(D) Cannot be determined,(A) Real and equal
+Quadratic Equations,Easy,The quadratic equation whose roots are -3 and -4 is:,(A) x^2 + 7x + 12 = 0,(B) x^2 - 7x + 12 = 0,(C) x^2 + x + 12 = 0,(D) x^2 - x + 12 = 0,(A) x^2 + 7x + 12 = 0
+Quadratic Equations,Easy,The roots of x^2 + 11x + 30 = 0 are:,(A) -5 and -6,(B) 5 and 6,(C) 5 and -6,(D) -5 and 6,(A) -5 and -6
+Quadratic Equations,Easy,If one root of the equation 5x^2 + kx - 4 = 0 is -1 then the value of k is:,(A) 1,(B) -1,(C) 9,(D) -9,(A) 1
+Quadratic Equations,Easy,If x^2 + 7x + 10 = 0 what is the value of x + 2?,(A) -3 or -5,(B) 3 or 5,(C) -3 or 5,(D) 3 or -5,(A) -3 or -5
+Quadratic Equations,Easy,The roots of the equation 3x^2 - 10x + 3 = 0 are:,(A) 1/3 and 3,(B) 1/3 and -3,(C) -1/3 and 3,(D) -1/3 and -3,(A) 1/3 and 3
+Quadratic Equations,Easy,If x^2 - 6x + k = 0 has equal roots what is the value of k?,(A) 9,(B) -9,(C) 3,(D) -3,(A) 9
+Quadratic Equations,Easy,What are the solutions to the equation |x^2 - 4| = 0?,(A) -2 and 2,(B) 2 and -2 and 0,(C) 2 and -2 and 4,(D) 4,(A) -2 and 2
+Quadratic Equations,Easy,If the length of a rectangle is represented by x + 3 and the width by x - 1 and the area is 0 what is the value of x?,(A) 1 or -3,(B) -1 or 3,(C) 1 or 3,(D) -1 or -3,(A) 1 or -3
+Quadratic Equations,Easy,The roots of the equation x(x-5) = 14 are: ,(A) 7 and -2,(B) -7 and 2,(C) 7 and 2,(D) -7 and -2,(A) 7 and -2
+Quadratic Equations,Easy,If x^2 + bx + c = 0 has roots 3 and -4 what are the values of b and c?,"(A) b = 1, c = -12","(B) b = -1, c = -12","(C) b = 1, c = 12","(D) b = -1, c = 12","(A) b = -1, c = -12"
+Quadratic Equations,Easy,If x^2 - 9x + 14 = 0 what is the smaller value of x?,(A) 2,(B) 7,(C) 9,(D) 14,(A) 2
+Quadratic Equations,Easy,The solutions to the equation (x-3)^2 = 16 are:,(A) 7 and -1,(B) 7 and 1,(C) -7 and -1,(D) -7 and 1,(A) 7 and -1
+Quadratic Equations,Easy,What value of k makes x^2 + 12x + k a perfect square trinomial?,(A) 36,(B) 144,(C) 72,(D) 24,(A) 36
+Quadratic Equations,Easy,The roots of the equation x^2 - 3x - 18 = 0 are:,(A) -3 and 6,(B) 3 and -6,(C) 3 and 6,(D) -3 and -6,(A) -3 and 6
+Quadratic Equations,Easy,If the area of a square is represented by x^2 + 8x + 16 what is the length of one side?,(A) x + 4,(B) x - 4,(C) x + 16,(D) x - 16,(A) x + 4
+Quadratic Equations,Easy,What are the x-intercepts of the graph of y = x^2 - 5x + 6?,(A) 2 and 3,(B) -2 and -3,(C) 2 and -3,(D) -2 and 3,(A) 2 and 3
+Quadratic Equations,Easy,If x^2 + px + q = 0 has roots -1 and -6 what is the value of p + q?,(A) 13,(B) -13,(C) 7,(D) -7,(A) 13
+Quadratic Equations,Easy,The solutions to the equation |x-2| = 5 are:,(A) 7 and -3,(B) 7 and 3,(C) -7 and -3,(D) -7 and 3,(A) 7 and -3
+Quadratic Equations,Easy,What is the product of the roots of the equation 3x^2 - 11x + 6 = 0?,(A) 2,(B) 6,(C) -6,(D) -2,(A) 2
+Quadratic Equations,Easy,If one root of the equation x^2 + kx - 15 = 0 is 3 what is the value of k?,(A) -2,(B) 2,(C) -8,(D) 8,(A) -2
+Quadratic Equations,Easy,The roots of the equation x^2 + 5x - 14 = 0 are:,(A) -7 and 2,(B) 7 and -2,(C) 7 and 2,(D) -7 and -2,(A) -7 and 2
+Quadratic Equations,Easy,What value of c makes x^2 + 10x + c a perfect square trinomial?,(A) 25,(B) 100,(C) 50,(D) 20,(A) 25
+Quadratic Equations,Easy,The sum of the roots of the equation 6x^2 - 7x + 2 = 0 is:,(A) 45815,(B) -1.16666666666667,(C) 45810,(D) -0.333333333333333,(A) 7/6
+Quadratic Equations,Easy,The product of the roots of the equation 5x^2 - 6x + 1 = 0 is:,(A) 45778,(B) -0.2,(C) 45783,(D) -1.2,(A) 1/5
+Quadratic Equations,Easy,If the roots of a quadratic equation are imaginary then the discriminant is:,(A) Negative,(B) Zero,(C) Positive,(D) Any real number,(A) Negative
+Quadratic Equations,Easy,The roots of the equation x^2 - 10x + 25 = 0 are:,(A) Real and equal,(B) Real and unequal,(C) Imaginary,(D) None of these,(A) Real and equal
+Quadratic Equations,Easy,The value of 'n' for which the equation x^2 + nx + 36 = 0 has equal roots is:,(A) ±12,(B) 12,(C) -12,(D) 6,(A) ±12
+Quadratic Equations,Easy,The roots of the equation x^2 - 5x - 24 = 0 are:,(A) 8 and -3,(B) -8 and 3,(C) 8 and 3,(D) -8 and -3,(A) 8 and -3
+Quadratic Equations,Easy,If Î± and Î² are the roots of the equation 4x^2 - 7x + 3 = 0 then Î± + Î² is:,(A) 45754,(B) -1.75,(C) 45750,(D) -0.75,(A) 7/4
+Quadratic Equations,Easy,If Î± and Î² are the roots of the equation x^2 + 9x + 14 = 0 then Î±Î² is:,(A) 14,(B) -14,(C) 9,(D) -9,(A) 14
+Quadratic Equations,Easy,The quadratic equation whose roots are 3 and -8 is:,(A) x^2 + 5x - 24 = 0,(B) x^2 - 5x - 24 = 0,(C) x^2 + 11x - 24 = 0,(D) x^2 - 11x - 24 = 0,(A) x^2 + 5x - 24 = 0
+Quadratic Equations,Easy,The sum of the roots of a quadratic equation is 4 and the product is -21. The equation is:,(A) x^2 - 4x - 21 = 0,(B) x^2 + 4x - 21 = 0,(C) x^2 - 4x + 21 = 0,(D) x^2 + 4x + 21 = 0,(A) x^2 - 4x - 21 = 0
+Quadratic Equations,Easy,The roots of the equation 8x^2 + 10x - 3 = 0 are:,(A) 1/4 and -3/2,(B) -1/4 and 3/2,(C) 1 and -3/4,(D) -1 and 3/4,(A) 1/4 and -3/2
+Quadratic Equations,Easy,For what 'q' does x^2 - 8x + q = 0 have equal roots?:,(A) 16,(B) 4,(C) -4,(D) -16,(A) 16
+Quadratic Equations,Easy,The roots of the equation x(x-6) = 0 are:,(A) 0 and 6,(B) 0 and -6,(C) 1 and 6,(D) 1 and -6,(A) 0 and 6
+Quadratic Equations,Easy,The value of 'k' for which x^2 + kx + 25 = 0 has equal roots is:,(A) ±10,(B) 10,(C) -10,(D) 5,(A) ±10
+Quadratic Equations,Easy,The roots of x^2 - 4x - 12 = 0 are:,(A) 6 and -2,(B) -6 and 2,(C) 6 and 2,(D) -6 and -2,(A) 6 and -2
+Quadratic Equations,Easy,If a and b are roots of 4x^2 - 5x + 1 = 0 a + b =:,(A) 1.25,(B) -1.25,(C) 0.25,(D) -0.25,(A) 1.25
+Quadratic Equations,Easy,If a and b are roots of x^2 + 8x + 15 = 0 a + b =:,(A) 15,(B) -15,(C) 8,(D) -8,(A) 15
+Quadratic Equations,Easy,The quadratic equation with roots -2 and 6 is:,(A) x^2 - 4x - 12 = 0,(B) x^2 + 4x - 12 = 0,(C) x^2 - 8x - 12 = 0,(D) x^2 + 8x - 12 = 0,(A) x^2 - 4x - 12 = 0
+Quadratic Equations,Easy,Sum of roots is 7 product is 10. The equation is:,(A) x^2 - 7x + 10 = 0,(B) x^2 + 7x + 10 = 0,(C) x^2 - 10x + 7 = 0,(D) x^2 + 10x + 7 = 0,(A) x^2 - 7x + 10 = 0
+Quadratic Equations,Easy,The roots of 7x^2 + 11x - 6 = 0 are:,(A) 2/7 and -3,(B) -2/7 and 3,(C) 2 and -3/7,(D) -2 and 3/7,(A) 2/7 and -3
+Quadratic Equations,Easy,For what 'm' does x^2 - mx + 9 = 0 have equal roots?:,(A) ±6,(B) 6,(C) -6,(D) 3,(A) ±6
+Quadratic Equations,Hard,Let f(x) = x^2 + ax + b. If f(1) = -1 and f(2) = 1 what is the value of a + b?,(A) 1,(B) -1,(C) 2,(D) -2,(A) -1
+Quadratic Equations,Hard,The roots of the equation 2^(x+2) + 2^(2-x) = 17/2 are:,(A) 1 and -1,(B) 2 and -2,(C) 1 and 2,(D) -1 and -2,(A) 1 and -1
+Quadratic Equations,Hard,The value of 'k' for which the equation (k-1)x^2 - 10x + 3 = 0 has equal roots is:,(A) 3,(B) 4,(C) 7,(D) -4,(A) 4
+Quadratic Equations,Hard,If the roots of the equation x^2 - ax - b = 0 are real and unequal then the roots of x^2 - ax + b^3 = 0 are:,(A) Real and unequal,(B) Real and equal,(C) Imaginary,(D) Cannot be determined,(A) Real and unequal
+Quadratic Equations,Hard,The sum of the roots of a quadratic equation is 5 and the sum of their cubes is 35. The equation is:,(A) x^2 - 5x + 6 = 0,(B) x^2 - 5x + 4 = 0,(C) x^2 - 5x + 24 = 0,(D) x^2 - 5x + 10 = 0,(A) x^2 - 5x + 6 = 0
+Quadratic Equations,Hard,If one root of the equation x^2 + px + q = 0 is the square of the other then:,(A) p^3 - 3pq + q = 0,(B) p^3 + 3pq + q = 0,(C) p^3 - 3pq - q = 0,(D) p^3 + 3pq - q = 0,(A) p^3 - 3pq + q = 0
+Quadratic Equations,Hard,The value of 'k' for which the equation (k-12)x^2 + 2(k-12)x + 2 = 0 has equal roots is:,(A) 14,(B) 12,(C) 10,(D) 8,(A) 14
+Quadratic Equations,Hard,If the roots of the equation (a-B)x^2 + (b-C)x + (c-A) = 0 are equal then:,(A) 2a = b + c,(B) a + c = 2b,(C) a = b = c,(D) None of these,(A) 2a = b + c
+Quadratic Equations,Hard,If the equation (c^2 - aB)x^2 - 2(a^2 - bC)x + b^2 - ac = 0 has equal roots then:,(A) a = 0 or a^3 + b^3 + c^3 = 3abc,(B) a = 0 or a + b + c = 0,(C) a = b = c,(D) None of these,(A) a = 0 or a^3 + b^3 + c^3 = 3abc
+Quadratic Equations,Hard,The roots of the equation a(b-C)x^2 + b(c-A)x + c(a-B) = 0 are:,(A) 1 and c/a,(B) 1 and a/c,(C) 1 and b/a,(D) 1 and a/b,(A) 1 and c/a
+Quadratic Equations,Hard,If the sum of the roots of a quadratic equation is equal to the product of the roots then the equation is:,(A) x^2 - ax + a = 0,(B) x^2 + ax - a = 0,(C) x^2 - ax - a = 0,(D) x^2 + ax + a = 0,(A) x^2 - ax + a = 0
+Quadratic Equations,Hard,The roots of the equation (x-A)(x-B) + (x-B)(x-C) + (x-C)(x-A) = 0 are:,(A) (a+(B)/2 (b+(C)/2 (c+(A)/2,(B) a b c,(C) a/2 b/2 c/2,(D) None of these,(A) (a+(B)/2 (b+(C)/2 (c+(A)/2
+Quadratic Equations,Hard,If one root of the quadratic equation ax^2 + bx + c = 0 is three times the other root then the relation between a b and c is:,(A) 3b^2 = 16ac,(B) b^2 = 3ac,(C) b^2 = 9ac,(D) 3b^2 = ac,(A) 3b^2 = 16ac
+Quadratic Equations,Hard,If the roots of the equation (a^2-bC)x^2 + 2(b^2-cA)x + (c^2-aB) = 0 are equal and a b c are real numbers then:,(A) a=b=c or a+b+c=0,(B) a=b=c only,(C) a+b+c=0 only,(D) None of these,(A) a=b=c or a+b+c=0
+Quadratic Equations,Hard,Let f(x) = x^2 + ax + b. If f(1) = -1 and f(2) = 1 what is the value of a + b?,(A) 1,(B) -1,(C) 2,(D) -2,(A) -1
+Quadratic Equations,Hard,The roots of the equation 2^(x+2) + 2^(2-x) = 17/2 are:,(A) 1 and -1,(B) 2 and -2,(C) 1 and 2,(D) -1 and -2,(A) 1 and -1
+Quadratic Equations,Hard,If Î± Î² are the roots of x^2 - px + q = 0 find the quadratic equation whose roots are (Î±^2 - Î²^2) and (Î±^3 + Î²^3).,(A) x^2 - [p(p^2-3q)]x + q^2(p^2-4q) = 0,(B) x^2 + [p(p^2-3q)]x + q^2(p^2-4q) = 0,(C) x^2 - [p(p^2+3q)]x + q^2(p^2+4q) = 0,(D) None of these,(A) x^2 - [p(p^2-3q)]x + q^2(p^2-4q) = 0
+Quadratic Equations,Hard,The value of 'k' for which the equation (k-1)x^2 - 10x + 3 = 0 has equal roots is:,(A) 3,(B) 4,(C) 7,(D) -4,(A) 4
+Quadratic Equations,Hard,If the roots of the equation x^2 - ax - b = 0 are real and unequal then the roots of x^2 - ax + b^3 = 0 are:,(A) Real and unequal,(B) Real and equal,(C) Imaginary,(D) Cannot be determined,(A) Real and unequal
+Quadratic Equations,Hard,The sum of the roots of a quadratic equation is 5 and the sum of their cubes is 35. The equation is:,(A) x^2 - 5x + 6 = 0,(B) x^2 - 5x + 4 = 0,(C) x^2 - 5x + 24 = 0,(D) x^2 - 5x + 10 = 0,(A) x^2 - 5x + 6 = 0
+Quadratic Equations,Hard,If one root of the equation x^2 + px + q = 0 is the square of the other then:,(A) p^3 - 3pq + q = 0,(B) p^3 + 3pq + q = 0,(C) p^3 - 3pq - q = 0,(D) p^3 + 3pq - q = 0,(A) p^3 - 3pq + q = 0
+Quadratic Equations,Hard,The number of real roots of the equation a(x^2 - 4x + 3) + a(x^2 - 5x + 6) = a is:,(A) 1,(B) 2,(C) 3,(D) 4,(A) 1
+Quadratic Equations,Hard,The value of 'k' for which the equation (k-12)x^2 + 2(k-12)x + 2 = 0 has equal roots is:,(A) 14,(B) 12,(C) 10,(D) 8,(A) 14
+Quadratic Equations,Hard,If the roots of the equation (a-B)x^2 + (b-C)x + (c-A) = 0 are equal then:,(A) 2a = b + c,(B) a + c = 2b,(C) a = b = c,(D) None of these,(A) 2a = b + c
+Quadratic Equations,Hard,If the equation (c^2 - aB)x^2 - 2(a^2 - bC)x + b^2 - ac = 0 has equal roots then:,(A) a = 0 or a^3 + b^3 + c^3 = 3abc,(B) a = 0 or a + b + c = 0,(C) a = b = c,(D) None of these,(A) a = 0 or a^3 + b^3 + c^3 = 3abc
+Quadratic Equations,Hard,The roots of the equation a(b-C)x^2 + b(c-A)x + c(a-B) = 0 are:,(A) 1 and c/a,(B) 1 and a/c,(C) 1 and b/a,(D) 1 and a/b,(A) 1 and c/a
+Quadratic Equations,Hard,If the sum of the roots of a quadratic equation is equal to the product of the roots then the equation is:,(A) x^2 - ax + a = 0,(B) x^2 + ax - a = 0,(C) x^2 - ax - a = 0,(D) x^2 + ax + a = 0,(A) x^2 - ax + a = 0
+Quadratic Equations,Hard,The roots of the equation (x-A)(x-B) + (x-B)(x-C) + (x-C)(x-A) = 0 are:,(A) (a+(B)/2 (b+(C)/2 (c+(A)/2,(B) a b c,(C) a/2 b/2 c/2,(D) None of these,(A) (a+(B)/2 (b+(C)/2 (c+(A)/2
+Quadratic Equations,Hard,If one root of the quadratic equation ax^2 + bx + c = 0 is three times the other root then the relation between a b and c is:,(A) 3b^2 = 16ac,(B) b^2 = 3ac,(C) b^2 = 9ac,(D) 3b^2 = ac,(A) 3b^2 = 16ac
+Quadratic Equations,Medium,If a and b are the roots of 2x^2 - 7x + 3 = 0 then a + b is:,(A) 3.5,(B) -3.5,(C) 1.5,(D) -1.5,(A) 3.5
+Quadratic Equations,Medium,If a and b are the roots of x^2 + 5x + 6 = 0 then a + is:,(A) 6,(B) -6,(C) 5,(D) -5,(A) 6
+Quadratic Equations,Medium,The quadratic equation whose roots are 2 and -3 is:,(A) x^2 + x - 6 = 0,(B) x^2 - x - 6 = 0,(C) x^2 + 5x + 6 = 0,(D) x^2 - 5x + 6 = 0,(A) x^2 + x - 6 = 0
+Quadratic Equations,Medium,The sum of the roots of a quadratic equation is 4 and the product is -12. The equation is:,(A) x^2 - 4x - 12 = 0,(B) x^2 + 4x - 12 = 0,(C) x^2 - 12x + 4 = 0,(D) x^2 + 12x - 4 = 0,(A) x^2 - 4x - 12 = 0
+Quadratic Equations,Medium,The roots of the equation 3x^2 + 5x - 2 = 0 are:,(A) 1/3 and -2,(B) -1/3 and 2,(C) 1 and -2/3,(D) -1 and 2/3,(A) 1/3 and -2
+Quadratic Equations,Medium,If the roots of the equation x^2 - 7x + k = 0 are real and equal the value of k is:,(A) 49/4,(B) 45754,(C) -3.5,(D) 45712,(A) 49/4
+Quadratic Equations,Medium,The roots of the quadratic equation 3x^2 - 10x + 3 = 0 are:,(A) 3 and 1/3,(B) 3 and -1/3,(C) -3 and 1/3,(D) -3 and -1/3,(A) 3 and 1/3
+Quadratic Equations,Medium,If Î± and Î² are the roots of the equation 2x^2 - 5x + 3 = 0 the value of 1/Î± + 1/Î² is:,(A) 45721,(B) 45780,(C) -0.6,(D) 45717,(A) 5/3
+Quadratic Equations,Medium,The sum of the roots of a quadratic equation is 6 and the sum of their squares is 20. The equation is:,(A) x^2 - 6x + 8 = 0,(B) x^2 + 6x + 8 = 0,(C) x^2 - 6x - 8 = 0,(D) x^2 + 6x - 8 = 0,(A) x^2 - 6x + 8 = 0
+Quadratic Equations,Medium,The value of 'p' for which the equation (p+1)x^2 - 6(p+1)x + 3(p+9) = 0 has equal roots is:,(A) 2,(B) 3,(C) 4,(D) 5,(A) 2
+Quadratic Equations,Medium,If one root of the equation 4x^2 + px + 3 = 0 is 1/4 the value of p is:,(A) -13,(B) -12,(C) 12,(D) 13,(A) -13
+Quadratic Equations,Medium,The quadratic equation whose roots are the reciprocals of the roots of 3x^2 - 5x - 2 = 0 is:,(A) 2x^2 + 5x - 3 = 0,(B) 2x^2 - 5x - 3 = 0,(C) 3x^2 + 5x - 2 = 0,(D) 3x^2 - 5x - 2 = 0,(A) 2x^2 + 5x - 3 = 0
+Quadratic Equations,Medium,If the product of the roots of the equation ax^2 + bx + c = 0 is 5 then c/a is:,(A) 5,(B) -5,(C) -4,(D) 4,(A) 5
+Quadratic Equations,Medium,The roots of the equation (x-1)(x-2) = 6 are:,(A) 4 and -1,(B) -4 and 1,(C) 4 and 1,(D) -4 and -1,(A) 4 and -1
+Quadratic Equations,Medium,If Î± and Î² are the roots of the equation x^2 - 3x + 4 = 0 the value of Î±^3 + Î²^3 is:,(A) -1,(B) 1,(C) -7,(D) 7,(A) -1
+Quadratic Equations,Medium,The roots of the equation 3x^2 + 8x - 3 = 0 are:,(A) 1/3 and -3,(B) -1/3 and 3,(C) 1 and -3/3,(D) -1 and 3/3,(A) 1/3 and -3
+Quadratic Equations,Medium,If the sum of the roots of a quadratic equation is -4 and the product is -12 the equation is:,(A) x^2 + 4x - 12 = 0,(B) x^2 - 4x - 12 = 0,(C) x^2 + 4x + 12 = 0,(D) x^2 - 4x + 12 = 0,(A) x^2 + 4x - 12 = 0
+Quadratic Equations,Medium,The value of 'm' for which the equation mx(x-5) + 25 = 0 has equal roots is:,(A) 1,(B) 2,(C) 3,(D) 4,(A) 1
+Quadratic Equations,Medium,If one root of the equation 3x^2 + kx + 2 = 0 is 2/3 the value of k is:,(A) -7,(B) -5,(C) 5,(D) 7,(A) -7
+Quadratic Equations,Medium,The roots of the equation 4x^2 - 4x + 1 = 0 are:,(A) 1/2 and 1/2,(B) -1/2 and -1/2,(C) 1/2 and -1/2,(D) -1/2 and 1/2,(A) 1/2 and 1/2
+Quadratic Equations,Medium,If Î± and Î² are the roots of the equation x^2 - 4x + 3 = 0 the value of Î±/Î² + Î²/Î± is:,(A) 45726,(B) 45933,(C) 45729,(D) 41334,(A) 10/3
+Quadratic Equations,Medium,The quadratic equation whose roots are -1/2 and 2/3 is:,(A) 6x^2 - x - 2 = 0,(B) 6x^2 + x - 2 = 0,(C) 6x^2 - 5x - 2 = 0,(D) 6x^2 + 5x - 2 = 0,(A) 6x^2 - x - 2 = 0
+Quadratic Equations,Medium,A quadratic equation whose roots are reciprocals of each other is:,(A) ax^2 + bx + c = 0,(B) cx^2 + bx + a = 0,(C) ax^2 + cx + b = 0,(D) bx^2 + ax + c = 0,(A) cx^2 + bx + a = 0
+Quadratic Equations,Medium,If one root of the equation ax^2 + bx + c = 0 is the reciprocal of the other then:,(A) a = c,(B) a = -c,(C) b = a + c,(D) b = a - c,(A) a = c
+Quadratic Equations,Medium,If the sum of the roots of a quadratic equation is -m and the product of the roots is -n then the quadratic equation is:,(A) x^2 + mx - n = 0,(B) x^2 - mx + n = 0,(C) x^2 + mx + n = 0,(D) x^2 - mx - n = 0,(A) x^2 + mx - n = 0
+Quadratic Equations,Medium,If Î± and Î² are the roots of x^2 - px + q = 0 then the value of Î±^2 + Î²^2 is:,(A) p^2 - 2q,(B) p^2 + 2q,(C) p^2 - 4q,(D) p^2 + 4q,(A) p^2 - 2q
+Quadratic Equations,Medium,If the roots of the equation x^2 - ax + b = 0 are real and equal then:,(A) a^2 = 4b,(B) a^2 = -4b,(C) a = 2b,(D) a = -2b,(A) a^2 = 4b
+Quadratic Equations,Medium,The value of 'k' for which the equation (k-2)x^2 + 2(k-2)x + 2 = 0 has equal roots is:,(A) 4,(B) 2,(C) 0,(D) 6,(A) 4
+Quadratic Equations,Medium,If the roots of the equation (a-B)x^2 + (b-C)x + (c-A) = 0 are equal then:,(A) 2a = b + c,(B) a + c = 2b,(C) a = b = c,(D) None of these,(A) 2a = b + c
+Quadratic Equations,Medium,The roots of the equation a(b-C)x^2 + b(c-A)x + c(a-B) = 0 are:,(A) 1 and c/a,(B) 1 and a/c,(C) 1 and b/a,(D) 1 and a/b,(A) 1 and c/a
+Quadratic Equations,Medium,If the sum of the roots of a quadratic equation is equal to the product of the roots then the equation is:,(A) x^2 - ax + a = 0,(B) x^2 + ax - a = 0,(C) x^2 - ax - a = 0,(D) x^2 + ax + a = 0,(A) x^2 - ax + a = 0
+Quadratic Equations,Medium,The roots of the equation (x-A)(x-B) + (x-B)(x-C) + (x-C)(x-A) = 0 are:,(A) (a+(B)/2 (b+(C)/2 (c+(A)/2,(B) a b c,(C) a/2 b/2 c/2,(D) None of these,(A) (a+(B)/2 (b+(C)/2 (c+(A)/2
+Quadratic Equations,Medium,If one root of the quadratic equation ax^2 + bx + c = 0 is three times the other root then the relation between a b and c is:,(A) 3b^2 = 16ac,(B) b^2 = 3ac,(C) b^2 = 9ac,(D) 3b^2 = ac,(A) 3b^2 = 16ac
+Real Numbers,Easy,The HCF of 12 and 18 is:,(A) 6,(B) 3,(C) 2,(D) 1,(A) 6
+Real Numbers,Easy,The LCM of 8 and 12 is:,(A) 24,(B) 16,(C) 4,(D) 96,(A) 24
+Real Numbers,Easy,Which of the following is a rational number?,(A) 2^1/2,(B) 3^1/2,(C) 4^1/2,(D) PIE,(C) 4^1/2
+Real Numbers,Easy,The decimal expansion of 1/3 is:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) None of these,(C) Non-terminating repeating
+Real Numbers,Easy,The decimal expansion of 1/2 is:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) None of these,(A) Terminating
+Real Numbers,Easy,The product of two numbers is equal to:,(A) Their HCF,(B) Their LCM,(C) Product of HCF and LCM,(D) Sum of HCF and LCM,(C) Product of HCF and LCM
+Real Numbers,Easy,The HCF of two co-prime numbers is:,(A) 0,(B) 1,(C) 2,(D) None of these,(B) 1
+Real Numbers,Easy,The LCM of two co-prime numbers is:,(A) Their sum,(B) Their difference,(C) Their product,(D) None of these,(C) Their product
+Real Numbers,Easy,Every rational number is:,(A) A natural number,(B) A whole number,(C) An integer,(D) A real number,(D) A real number
+Real Numbers,Easy,Every integer is:,(A) A natural number,(B) A whole number,(C) A rational number,(D) An irrational number,(C) A rational number
+Real Numbers,Easy,Which of the following is a terminating decimal?,(A) 45717,(B) 45809,(C) 45839,(D) 45901,(C) 1/6
+Real Numbers,Easy,Which of the following is a non-terminating repeating decimal?,(A) 45748,(B) 45778,(C) 45870,(D) 45901,(D) 1/9
+Real Numbers,Easy,The decimal form of 3/4 is:,(A) 0.25,(B) 0.5,(C) 0.75,(D) 1.25,(C) 0.75
+Real Numbers,Easy,The fractional form of 0.2 is:,(A) 45778,(B) 45779,(C) 45689,(D) 45932,(A) 1/5
+Real Numbers,Easy,The fractional form of 0.5 is:,(A) 45689,(B) 45748,(C) 45779,(D) 45935,(A) 1/2
+Real Numbers,Easy,The HCF of 6 and 9 is:,(A) 3,(B) 2,(C) 6,(D) 9,(A) 3
+Real Numbers,Easy,The LCM of 4 and 6 is:,(A) 12,(B) 8,(C) 24,(D) 36,(A) 12
+Real Numbers,Easy,A number which can be written in the form p/q where p and q are integers and qâ‰ 0 is called:,(A) Rational number,(B) Irrational number,(C) Real number,(D) Complex number,(A) Rational number
+Real Numbers,Easy,The set of all rational and irrational numbers together is called:,(A) Integers,(B) Whole numbers,(C) Real numbers,(D) Natural numbers,(C) Real numbers
+Real Numbers,Easy,The number of real solutions of the equation âˆš(x^2 - 4x + 3) + âˆš(x^2 - 5x + 6) = âˆš2 is:,(A) 1,(B) 2,(C) 3,(D) 4,(A) 1
+Real Numbers,Easy,The value of 'k' for which the equation (k-12)x^2 + 2(k-12)x + 2 = 0 has equal roots is:,(A) 14,(B) 12,(C) 10,(D) 8,(A) 14
+Real Numbers,Easy,If the roots of the equation (a-B)x^2 + (b-C)x + (c-A) = 0 are equalthen:,(A) 2a = b + c,(B) a + c = 2b,(C) a = b = c,(D) None of these,(A) 2a = b + c
+Real Numbers,Easy,If the equation (c^2 - aB)x^2 - 2(a^2 - bC)x + b^2 - ac = 0 has equal roots then:,(A) a = 0 or a^3 + b^3 + c^3 = 3abc,(B) a = 0 or a + b + c = 0,(C) a = b = c,(D) None of these,(A) a = 0 or a^3 + b^3 + c^3 = 3abc
+Real Numbers,Easy,The roots of the equation a(b-C)x^2 + b(c-A)x + c(a-B) = 0 are:,(A) 1 and c/a,(B) 1 and a/c,(C) 1 and b/a,(D) 1 and a/b,(A) 1 and c/a
+Real Numbers,Easy,If the sum of the roots of a quadratic equation is equal to the product of the roots then the equation is:,(A) x^2 - ax + a = 0,(B) x^2 + ax - a = 0,(C) x^2 - ax - a = 0,(D) x^2 + ax + a = 0,(A) x^2 - ax + a = 0
+Real Numbers,Easy,The roots of the equation (x-A)(x-B) + (x-B)(x-C) + (x-C)(x-A) = 0 are:,(A) (a+B)/2 (b+C)/2 (c+A)/2,(B) a b c,(C) a/2 b/2 c/2,(D) None of these,(A) (a+B)/2 (b+C)/2 (c+A)/2
+Real Numbers,Easy,If one root of the quadratic equation ax^2 + bx + c = 0 is three times the other rootthen the relation between a b and c is:,(A) 3b^2 = 16ac,(B) b^2 = 3ac,(C) b^2 = 9ac,(D) 3b^2 = ac,(A) 3b^2 = 16ac
+Real Numbers,Easy,Let a b c be real numbers such that a + b + c = 0 and a = 0. If the roots of ax^2 + bx + c = 0 are equal then:,(A) b^2 - 4ac = 0 and b = 2a,(B) b^2 - 4ac = 0 and b = -2a,(C) b^2 - 4ac > 0,(D) b^2 - 4ac < 0,(A) b^2 - 4ac = 0 and b = -2a
+Real Numbers,Easy,The number of real values of 'a' for which the equation x^2 - 2ax + a^2 - 1 = 0 has real and distinct roots is:,(A) Infinite,(B) 0,(C) 1,(D) 2,(A) Infinite
+Real Numbers,Easy,If the roots of the equation x^2 - ax - b = 0 are real and unequal then the roots of the equation x^2 - ax + b^3 = 0 will be:,(A) Real and unequal,(B) Real and equal,(C) Imaginary,(D) Cannot be determined,(A) Real and unequal
+Real Numbers,Easy,Let p and q be the roots of the equation x^2 - 3x + 1 = 0. The value of (p^4 + q^4)/(p^3 + q^3) is:,(A) 45778,(B) 45779,(C) 45689,(D) 45932,(A) 1/5
+Real Numbers,Easy,If the quadratic equation x^2 + px + q = 0 has real roots then:,(A) p^2 = 4q,(B) p^2 > 4q,(C) p^2 < 4q,(D) None of these,(A) p^2 = 4q
+Real Numbers,Easy,The equation |x^2 - 4x + 3| = k has four distinct real roots if:,(A) 0 < k < 1,(B) 1 < k < 2,(C) k < 0,(D) k = 1,(A) 0 < k < 1
+Real Numbers,Easy,If a b c are distinct real numbers such that a + b + c = 0 and a^3 + b^3 + c^3 - 3abc = 0 then the roots of the quadratic equation ax^2 + bx + c = 0 are:,(A) Real and equal,(B) Real and unequal,(C) Imaginary,(D) Cannot be determined,(A) Real and equal
+Real Numbers,Easy,The number of integral values of 'k' for which the equation (k-12)x^2 + 2(k-12)x + 2 = 0 has equal roots is:,(A) 1,(B) 2,(C) 3,(D) 4,(A) 1
+Real Numbers,Easy,The smallest composite number is:,(A) 1,(B) 2,(C) 3,(D) 4,(D) 4
+Real Numbers,Easy,A number divisible by both 2 and 3 is also divisible by:,(A) 4,(B) 5,(C) 6,(D) 8,(C) 6
+Real Numbers,Easy,If a number ends in 0 it is always divisible by:,(A) 2,(B) 5,(C) 10,(D) All of these,(D) All of these
+Real Numbers,Easy,The only even prime number is:,(A) 0,(B) 1,(C) 2,(D) 3,(C) 2
+Real Numbers,Easy,Which of these is a prime number?,(A) 9,(B) 10,(C) 11,(D) 12,(C) 11
+Real Numbers,Easy,The HCF of 15 and 20 is:,(A) 3,(B) 5,(C) 10,(D) 15,(B) 5
+Real Numbers,Easy,The LCM of 6 and 9 is:,(A) 9,(B) 18,(C) 36,(D) 54,(B) 18
+Real Numbers,Easy,A number is divisible by 9 if the sum of its digits is divisible by:,(A) 3,(B) 6,(C) 9,(D) 18,(C) 9
+Real Numbers,Easy,Which of the following is a perfect square?,(A) 10,(B) 12,(C) 16,(D) 20,(C) 16
+Real Numbers,Easy,Which of the following is a perfect cube?,(A) 8,(B) 9,(C) 10,(D) 11,(A) 8
+Real Numbers,Easy,The square root of 25 is:,(A) 5,(B) 10,(C) 25,(D) 50,(A) 5
+Real Numbers,Easy,The cube root of 8 is:,(A) 2,(B) 4,(C) 6,(D) 8,(A) 2
+Real Numbers,Easy,A decimal number that neither terminates nor repeats is:,(A) Rational,(B) Irrational,(C) Integer,(D) Fraction,(B) Irrational
+Real Numbers,Easy,The decimal representation of a rational number is always:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) Either terminating or non-terminating repeating,(D) Either terminating or non-terminating repeating
+Real Numbers,Easy,The product of any two consecutive even numbers is always divisible by:,(A) 4,(B) 6,(C) 8,(D) 12,(C) 8
+Real Numbers,Easy,The sum of the first five prime numbers is:,(A) 10,(B) 11,(C) 17,(D) 28,(D) 28
+Real Numbers,Easy,The smallest odd composite number is:,(A) 5,(B) 7,(C) 9,(D) 11,(C) 9
+Real Numbers,Easy,The greatest common divisor of two or more numbers is also known as:,(A) LCM,(B) HCF,(C) Product,(D) Sum,(B) HCF
+Real Numbers,Hard,The HCF of two numbers is 12 and their LCM is 72. If one of the numbers is 24 find the other number:,(A) 36,(B) 18,(C) 6,(D) 144,(A) 36
+Real Numbers,Hard,If the HCF of two numbers is 8 and the numbers are 48 and 64 find their LCM:,(A) 384,(B) 192,(C) 96,(D) 48,(A) 384
+Real Numbers,Hard,Find the greatest number which exactly divides 252 and 378:,(A) 21,(B) 42,(C) 63,(D) 126,(C) 63
+Real Numbers,Hard,Find the least number which is exactly divisible by 12 15 and 18:,(A) 90,(B) 180,(C) 360,(D) 540,(B) 180
+Real Numbers,Hard,The decimal expansion of 1/7 is:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) None of these,(B) Non-terminating repeating
+Real Numbers,Hard,The decimal expansion of 1/13 is:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) None of these,(B) Non-terminating repeating
+Real Numbers,Hard,If the LCM of two numbers is 120 and the numbers are 8 and 15 find their HCF:,(A) 1,(B) 2,(C) 4,(D) 8,(A) 1
+Real Numbers,Hard,If the HCF of two numbers is 6 and the numbers are 18 and 30 find their LCM:,(A) 90,(B) 60,(C) 30,(D) 180,(A) 90
+Real Numbers,Hard,The prime factorization of 196 is:,(A) 2^2 * 7^2,(B) 2 * 7^2,(C) 2^2 * 7,(D) 2 * 7,(A) 2^2 * 7^2
+Real Numbers,Hard,The prime factorization of 225 is:,(A) 3^2 * 5^2,(B) 3 * 5^2,(C) 3^2 * 5,(D) 3 * 5,(A) 3^2 * 5^2
+Real Numbers,Hard,The number of prime factors in the prime factorization of 210 is:,(A) 2,(B) 3,(C) 4,(D) 5,(B) 3
+Real Numbers,Hard,The number of prime factors in the prime factorization of 360 is:,(A) 5,(B) 6,(C) 7,(D) 8,(A) 5
+Real Numbers,Hard,The largest number that will divide both 108 and 144 without leaving a remainder is:,(A) 12,(B) 18,(C) 36,(D) 72,(C) 36
+Real Numbers,Hard,The smallest number that is exactly divisible by both 16 and 20 is:,(A) 40,(B) 80,(C) 160,(D) 320,(B) 80
+Real Numbers,Hard,If the HCF of two numbers is 4 and their product is 160 find their LCM:,(A) 40,(B) 20,(C) 80,(D) 160,(A) 40
+Real Numbers,Hard,If the LCM of two numbers is 240 and their product is 1440 find their HCF:,(A) 6,(B) 8,(C) 12,(D) 24,(A) 6
+Real Numbers,Hard,The decimal expansion of 11/7 is:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) None of these,(B) Non-terminating repeating
+Real Numbers,Hard,The decimal expansion of 5/13 is:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) None of these,(B) Non-terminating repeating
+Real Numbers,Hard,The product of two numbers is 1000 and their HCF is 10. Their LCM is:,(A) 10,(B) 100,(C) 1000,(D) 10000,(B) 100
+Real Numbers,Hard,The HCF of three numbers 16 24 and 32 is:,(A) 4,(B) 8,(C) 16,(D) 32,(B) 8
+Real Numbers,Hard,Let a and b be positive integers such that a^2 + b^2 = 2023. Find the remainder when ab is divided by 4.,(A) 0,(B) 1,(C) 2,(D) 3,(B) 1
+Real Numbers,Hard,Let x and y be real numbers such that x^2 + y^2 = 1 and x^3 + y^3 = 1. Then x + y equals:,(A) 0,(B) 1,(C) 2,(D) 3,(B) 1
+Real Numbers,Hard,If a b c are positive real numbers such that a + b + c = 1 then the minimum value of (1/a - 1)(1/b - 1)(1/c - 1) is:,(A) 8,(B) 16,(C) 27,(D) 64,(A) 8
+Real Numbers,Hard,Let x be a real number such that x^2 + 1/x^2 = 7. Then the value of x^3 + 1/x^3 is:,(A) ±4,(B) ±5,(C) ±6,(D) ±7,(A) ±4
+Real Numbers,Hard,Let a b c be positive real numbers such that abc = 1. Then the minimum value of a + b + c is:,(A) 1,(B) 2,(C) 3,(D) 4,(C) 3
+Real Numbers,Hard,The number of integer solutions to the equation x^2 + y^2 = 2023 is:,(A) 0,(B) 1,(C) 2,(D) 4,(A) 0
+Real Numbers,Hard,If a b c are real numbers such that a^2 + b^2 + c^2 = 1 then the maximum value of ab + bc + ca is:,(A) 45689,(B) 1,(C) 45691,(D) 2,(B) 1
+Real Numbers,Hard,If x y z are positive real numbers such that x + y + z = 1 then the minimum value of x^2 + y^2 + z^2 is:,(A) 45718,(B) 45717,(C) 1,(D) 3,(A) 2/3
+Real Numbers,Hard,Let a b c be positive real numbers such that a + b + c = 1. Then the minimum value of (a/b + b/c + c/(A) is:,(A) 1,(B) 2,(C) 3,(D) 4,(C) 3
+Real Numbers,Hard,If x y z are positive real numbers such that xyz = 1 then the minimum value of (x + 1/y)(y + 1/z)(z + 1/x) is:,(A) 8,(B) 16,(C) 27,(D) 64,(A) 8
+Real Numbers,Hard,Let a b c be real numbers such that a + b + c = 0 and a^2 + b^2 + c^2 = 1. Then the value of a^4 + b^4 + c^4 is:,(A) 45717,(B) 45809,(C) 45839,(D) 45901,(B) 1/6
+Real Numbers,Hard,Let a b c be positive real numbers such that abc = 1. Then the minimum value of a + b + c is:,(A) 1,(B) 2,(C) 3,(D) 4,(C) 3
+Real Numbers,Hard,The number of integer solutions to the equation x^2 + y^2 = 2022 is:,(A) 0,(B) 1,(C) 2,(D) 4,(A) 0
+Real Numbers,Medium,The HCF of 72 and 120 is:,(A) 12,(B) 24,(C) 36,(D) 6,(B) 24
+Real Numbers,Medium,The LCM of 16 and 24 is:,(A) 24,(B) 48,(C) 96,(D) 192,(B) 48
+Real Numbers,Medium,The decimal expansion of 17/8 is:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) None of these,(A) Terminating
+Real Numbers,Medium,The decimal expansion of 10/3 is:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) None of these,(B) Non-terminating repeating
+Real Numbers,Medium,If the HCF of two numbers is 4 and their LCM is 96 one of the numbers is 16. The other number is:,(A) 24,(B) 32,(C) 48,(D) 64,(A) 24
+Real Numbers,Medium,The HCF and LCM of two numbers are 6 and 36 respectively. If one of the numbers is 12 then the other number is:,(A) 18,(B) 9,(C) 24,(D) 3,(A) 18
+Real Numbers,Medium,Find the largest number that exactly divides both 28 and 42:,(A) 7,(B) 14,(C) 21,(D) 28,(A) 14
+Real Numbers,Medium,Find the smallest number that is exactly divisible by both 15 and 20:,(A) 30,(B) 60,(C) 90,(D) 120,(B) 60
+Real Numbers,Medium,If the prime factorization of a number is 2^3 Ã— 3^2 Ã— 5 then the number is:,(A) 360,(B) 180,(C) 90,(D) 45,(A) 360
+Real Numbers,Medium,If the decimal representation of a number is 0.125 then the number is:,(A) 45748,(B) 45778,(C) 45870,(D) 45901,(D) 1/9
+Real Numbers,Medium,The product of two numbers is 72. If their HCF is 2 their LCM is:,(A) 18,(B) 36,(C) 72,(D) 144,(B) 36
+Real Numbers,Medium,"The HCF of three numbers 12, 15 and 21 is:",(A) 3,(B) 4,(C) 5,(D) 7,(A) 3
+Real Numbers,Medium,"The LCM of three numbers 8, 12 and 18 is:",(A) 36,(B) 72,(C) 144,(D) 216,(B) 72
+Real Numbers,Medium,The greatest number which exactly divides both 144 and 192 is:,(A) 12,(B) 24,(C) 48,(D) 72,(C) 48
+Real Numbers,Medium,The least number which is exactly divisible by both 18 and 24 is:,(A) 36,(B) 72,(C) 108,(D) 144,(B) 72
+Real Numbers,Medium,The decimal expansion of 7/20 is:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) None of these,(A) Terminating
+Real Numbers,Medium,The decimal expansion of 2/11 is:,(A) Terminating,(B) Non-terminating repeating,(C) Non-terminating non-repeating,(D) None of these,(B) Non-terminating repeating
+Real Numbers,Medium,Let Î± and Î² be the roots of x^2 - 5x + 3 = 0 with Î± > Î². If an = Î±^n - Î²^n for n â‰¥ 1 then (a10 - 5a9)/2a8 is:,(A) 1,(B) 2,(C) 3,(D) 4,(B) 2
+Real Numbers,Medium,The value of k for which the equation (k-12)x^2 + 2(k-12)x + 2 = 0 has equal roots is:,(A) 14,(B) 12,(C) 10,(D) 8,(A) 14
+Real Numbers,Medium,If the roots of the equation (a-B)x^2 + (b-C)x + (c-A) = 0 are equal then:,(A) 2a = b + c,(B) a + c = 2b,(C) a = b = c,(D) None of these,(A) 2a = b + c
+Real Numbers,Medium,If the equation (c^2 - aB)x^2 - 2(a^2 - bC)x + b^2 - ac = 0 has equal roots then:,(A) a = 0 or a^3 + b^3 + c^3 = 3abc,(B) a = 0 or a + b + c = 0,(C) a = b = c,(D) None of these,(A) a = 0 or a^3 + b^3 + c^3 = 3abc
+Real Numbers,Medium,The roots of the equation a(b-C)x^2 + b(c-A)x + c(a-B) = 0 are:,(A) 1 and c/a,(B) 1 and a/c,(C) 1 and b/a,(D) 1 and a/b,(A) 1 and c/a
+Real Numbers,Medium,If the sum of the roots of a quadratic equation is equal to the product of the roots then the equation is:,(A) x^2 - ax + a = 0,(B) x^2 + ax - a = 0,(C) x^2 - ax - a = 0,(D) x^2 + ax + a = 0,(A) x^2 - ax + a = 0
+Real Numbers,Medium,The roots of the equation (x-A)(x-B) + (x-B)(x-C) + (x-C)(x-A) = 0 are:,(A) (a+(B)/2 (b+(C)/2 (c+(A)/2,(B) a b c,(C) a/2 b/2 c/2,(D) None of these,(A) (a+(B)/2 (b+(C)/2 (c+(A)/2
+Real Numbers,Medium,If one root of the quadratic equation ax^2 + bx + c = 0 is three times the other root then the relation between a b and c is:,(A) 3b^2 = 16ac,(B) b^2 = 3ac,(C) b^2 = 9ac,(D) 3b^2 = ac,(A) 3b^2 = 16ac
+Real Numbers,Medium,Let a b c be real numbers such that a + b + c = 0 and a â‰  0. If the roots of ax^2 + bx + c = 0 are equal then:,(A) b^2 - 4ac = 0 and b = 2a,(B) b^2 - 4ac = 0 and b = -2a,(C) b^2 - 4ac > 0,(D) b^2 - 4ac < 0,(A) b^2 - 4ac = 0 and b = -2a
+Real Numbers,Medium,The number of real values of 'a' for which the equation x^2 - 2ax + a^2 - 1 = 0 has real and distinct roots is:,(A) Infinite,(B) 0,(C) 1,(D) 2,(A) Infinite
+Real Numbers,Medium,If the roots of the equation x^2 - ax - b = 0 are real and unequal then the roots of the equation x^2 - ax + b^3 = 0 will be:,(A) Real and unequal,(B) Real and equal,(C) Imaginary,(D) Cannot be determined,(A) Real and unequal
+Real Numbers,Medium,The equation |x^2 - 4x + 3| = k has four distinct real roots if:,(A) 0 < k < 1,(B) 1 < k < 2,(C) k < 0,(D) k = 1,(A) 0 < k < 1
+Real Numbers,Medium,If a b c are distinct real numbers such that a + b + c = 0 and a^3 + b^3 + c^3 - 3abc = 0 then the roots of the quadratic equation ax^2 + bx + c = 0 are:,(A) Real and equal,(B) Real and unequal,(C) Imaginary,(D) Cannot be determined,(A) Real and equal
+Real Numbers,Medium,The number of integral values of 'k' for which the equation (k-12)x^2 + 2(k-12)x + 2 = 0 has equal roots is:,(A) 1,(B) 2,(C) 3,(D) 4,(A) 1
+Statistics,Easy,"The mean of the data set {3, 5, 7} is?",(A) 5,(B) 4,(C) 6,(D) 3,(A) 5
+Statistics,Easy,"The sum of the numbers {10, 15, 20, 25} is?",(A) 70,(B) 75,(C) 80,(D) 85,(B) 75
+Statistics,Easy,"What is the median of the data set {2, 5, 3, 7, 9}?",(A) 3,(B) 5,(C) 7,(D) 6,(B) 5
+Statistics,Easy,"The mode of the data set {1, 2, 2, 3, 3, 4, 5} is?",(A) 2,(B) 3,(C) 4,(D) 5,(A) 2
+Statistics,Easy,"The range of the data set {5, 10, 15, 20} is?",(A) 10,(B) 15,(C) 20,(D) 25,(B) 15
+Statistics,Easy,"If the mean of 4 numbers is 8, what is their total sum?",(A) 32,(B) 24,(C) 16,(D) 12,(A) 32
+Statistics,Easy,"What is the median of the data set {3, 6, 9}?",(A) 9,(B) 6,(C) 3,(D) 5,(B) 6
+Statistics,Easy,"What is the mean of the data set {1, 3, 5, 7}?",(A) 4,(B) 5,(C) 3,(D) 2,(A) 4
+Statistics,Easy,"The sum of the numbers {4, 8, 12} is?",(A) 22,(B) 24,(C) 26,(D) 20,(B) 24
+Statistics,Easy,"What is the median of the data set {1, 4, 6, 8, 10}?",(A) 6,(B) 5,(C) 7,(D) 4,(A) 6
+Statistics,Easy,"The mode of the data set {5, 7, 5, 8, 9} is?",(A) 7,(B) 5,(C) 9,(D) 8,(B) 5
+Statistics,Easy,"What is the range of the data set {2, 5, 7, 10}?",(A) 8,(B) 7,(C) 5,(D) 3,(A) 8
+Statistics,Easy,"If the mean of 6 numbers is 9, what is their total sum?",(A) 50,(B) 54,(C) 56,(D) 60,(B) 54
+Statistics,Easy,"What is the median of the data set {3, 6, 9, 12}?",(A) 6,(B) 9,(C) 7,(D) 8,(A) 6
+Statistics,Easy,"In a class of 20 students, 15 are boys. What is the probability of selecting a girl?",(A) 3/20,(B) 5/20,(C) 15/20,(D) 2/5,(B) 5/20
+Statistics,Easy,"The mean of the data set {5, 7, 9, 11} is?",(A) 6,(B) 7,(C) 8,(D) 5,(A) 6
+Statistics,Easy,"The median of the data set {4, 6, 8, 10, 12} is?",(A) 6,(B) 8,(C) 10,(D) 7,(B) 8
+Statistics,Easy,"If the class intervals are 10-20, 20-30, and 30-40, what is the width of each class?",(A) 10,(B) 20,(C) 30,(D) 40,(A) 10
+Statistics,Easy,"What is the mode of the data set {15, 18, 18, 20, 22}?",(A) 15,(B) 18,(C) 20,(D) 22,(B) 18
+Statistics,Easy,"The range of the data set {2, 4, 7, 10} is?",(A) 8,(B) 10,(C) 7,(D) 6,(A) 8
+Statistics,Easy,"What is the sum of the numbers {3, 6, 9}?",(A) 18,(B) 15,(C) 12,(D) 9,(B) 15
+Statistics,Easy,"In a frequency distribution, the class intervals are 10-20, 20-30, 30-40. The midpoint of the first class is?",(A) 15,(B) 25,(C) 20,(D) 30,(A) 15
+Statistics,Hard,"The mean of 5 numbers is 12. If four numbers are 8, 15, 10, and 13, what is the fifth number?",(A) 16,(B) 20,(C) 22,(D) 24,(B) 20
+Statistics,Hard,"The average score of 7 students is 80. If one student scored 90, what is the average of the remaining 6 students?",(A) 78,(B) 75,(C) 82,(D) 80,(A) 78
+Statistics,Hard,"The median of the data set {7, 12, 10, 8, 15} is?",(A) 8,(B) 10,(C) 12,(D) 15,(B) 10
+Statistics,Hard,"In a group of 10 people, the ages are 18, 20, 24, 22, 23, 21, 19, 25, 27, 30. What is the mode of the ages?",(A) 18,(B) 20,(C) 23,(D) No mode,(D) No mode
+Statistics,Hard,The sum of the squared deviations of a set of data points from their mean is 60. What is the variance?,(A) 5,(B) 6,(C) 10,(D) 12,(B) 6
+Statistics,Hard,"The mean of the data set {5, 7, 9, 11, 13} is?",(A) 8,(B) 9,(C) 10,(D) 11,(B) 9
+Statistics,Hard,"The standard deviation of the numbers {2, 4, 6, 8, 10} is?",(A) 2,(B) 2.5,(C) 3,(D) 4,(A) 2
+Statistics,Hard,"In a class of 30 students, 18 are boys and the rest are girls. If one student is selected at random, what is the probability that the student is a girl?",(A) 12/30,(B) 18/30,(C) 2/5,(D) 1/3,(A) 12/30
+Statistics,Hard,"The median of the following data set: {5, 10, 12, 15, 20, 30} is?",(A) 15,(B) 12,(C) 10,(D) 13.5,(D) 13.5
+Statistics,Hard,"In a survey of 50 people, 30 prefer tea and the rest prefer coffee. What is the probability that a randomly selected person prefers coffee?",(A) 1/5,(B) 2/5,(C) 3/5,(D) 4/5,(B) 2/5
+Statistics,Hard,"The mode of the following set of numbers: {3, 5, 7, 5, 8, 5, 3, 3, 8} is?",(A) 5,(B) 3,(C) 8,(D) No mode,(B) 3
+Statistics,Hard,"The variance of the data set {2, 4, 6, 8} is?",(A) 4,(B) 5,(C) 6,(D) 7,(A) 4
+Statistics,Hard,"The range of the data set {8, 15, 12, 6, 10} is?",(A) 5,(B) 10,(C) 9,(D) 8,(B) 10
+Statistics,Hard,"A group of 5 students has an average age of 15. If one student is 19 years old, what is the average age of the other 4 students?",(A) 13.5,(B) 12,(C) 14,(D) 13,(A) 13.5
+Statistics,Hard,"The median of the data set {1, 5, 7, 9, 10, 15, 18, 22} is?",(A) 8,(B) 9,(C) 10,(D) 12,(B) 9
+Statistics,Hard,"Find the range for the data set {11, 13, 15, 17, 19, 21}?",(A) 6,(B) 10,(C) 8,(D) 4,(B) 10
+Statistics,Hard,"In a data set, the mean is 15 and the sum of the squares of the deviations from the mean is 225. What is the variance?",(A) 10,(B) 15,(C) 20,(D) 25,(D) 25
+Statistics,Hard,"The mean of 10 numbers is 18. If one number is increased by 2, what will be the new mean?",(A) 18.2,(B) 18.5,(C) 19,(D) 19.2,(A) 18.2
+Statistics,Hard,A teacher gives 10 marks extra to each student in a class. What will be the effect on the mean and median of the data?,(A) Both will increase by 10,(B) Both will decrease by 10,"(C) Mean will increase by 10, but median will remain the same",(D) Both will remain the same,(A) Both will increase by 10
+Statistics,Hard,"In a data set, the sum of squares of the deviations from the mean is 500. If there are 10 observations, what is the standard deviation?",(A) 10,(B) 5,(C) 25,(D) 50,(B) 5
+Statistics,Hard,"In a school, there are 300 students. If the average height of 200 boys is 160 cm and that of 100 girls is 155 cm, what is the average height of all the students?",(A) 158 cm,(B) 159 cm,(C) 160 cm,(D) 157 cm,(A) 158 cm
+Statistics,Hard,"The mean of the data set {10, 12, 14, 16, 18, 20} is?",(A) 14,(B) 15,(C) 16,(D) 17,(A) 14
+Statistics,Hard,"If the median of a data set is 25 and the mean is 30, which of the following could be true about the distribution of the data?",(A) Symmetric,(B) Right-skewed,(C) Left-skewed,(D) Cannot be determined,(B) Right-skewed
+Statistics,Hard,The variance of a data set is 16. What is the standard deviation?,(A) 2,(B) 4,(C) 16,(D) 8,(B) 4
+Statistics,Hard,A coin is tossed 10 times. What is the probability of getting exactly 3 heads?,(A) 120/1024,(B) 252/1024,(C) 512/1024,(D) 720/1024,(B) 252/1024
+Statistics,Hard,"A class has 40 students. The mean score of the class is 60. If the scores of 5 students are increased by 10 each, what is the new mean score?",(A) 61,(B) 60.5,(C) 62,(D) 63,(A) 61
+Statistics,Hard,The sum of 5 consecutive odd numbers is 75. What is the middle number?,(A) 15,(B) 17,(C) 19,(D) 21,(C) 19
+Statistics,Hard,"A class of 30 students has an average score of 70. If 5 new students with scores of 90 are added to the class, what is the new average?",(A) 75,(B) 80,(C) 77,(D) 76,(B) 80
+Statistics,Hard,The sum of the first 10 natural numbers is?,(A) 45,(B) 50,(C) 55,(D) 60,(C) 55
+Statistics,Hard,"A class has 40 students. The mean score of the class is 60. If the scores of 5 students are increased by 10 each, what is the new mean score?",(A) 61,(B) 60.5,(C) 62,(D) 63,(A) 61
+Statistics,Medium,"The mean of the data set {10, 12, 14, 16, 18} is?",(A) 12,(B) 14,(C) 16,(D) 13,(B) 14
+Statistics,Medium,"The sum of the squared deviations from the mean for the data set {2, 4, 6, 8} is?",(A) 10,(B) 16,(C) 12,(D) 14,(C) 12
+Statistics,Medium,"The median of the data set {3, 8, 2, 10, 7} is?",(A) 3,(B) 5,(C) 7,(D) 8,(C) 7
+Statistics,Medium,"The variance of the data set {4, 7, 11, 13} is?",(A) 8,(B) 6,(C) 7,(D) 9,(A) 8
+Statistics,Medium,"What is the probability of drawing a green ball from a box containing 5 red, 7 green, and 3 blue balls?",(A) 7/15,(B) 3/15,(C) 5/15,(D) 7/20,(A) 7/15
+Statistics,Medium,"The mean of the numbers 2, 4, 6, 8, and x is 5. What is the value of x?",(A) 4,(B) 5,(C) 6,(D) 7,(D) 7
+Statistics,Medium,"The range of the data set {5, 8, 11, 14, 17} is?",(A) 12,(B) 10,(C) 15,(D) 9,(A) 12
+Statistics,Medium,"In a class of 40 students, 25 prefer football and the rest prefer cricket. If one student is selected randomly, what is the probability that the student prefers cricket?",(A) 15/40,(B) 1/2,(C) 2/5,(D) 3/4,(A) 15/40
+Statistics,Medium,"The mode of the data set {12, 15, 15, 17, 19} is?",(A) 12,(B) 15,(C) 17,(D) 19,(B) 15
+Statistics,Medium,"What is the mean of the data set {2, 4, 6, 8, 10}?",(A) 6,(B) 7,(C) 5,(D) 8,(A) 6
+Statistics,Medium,"The sum of the squared deviations from the mean for the data set {3, 5, 7, 9} is?",(A) 10,(B) 8,(C) 12,(D) 14,(C) 12
+Statistics,Medium,"What is the variance of the data set {3, 7, 11, 13}?",(A) 14,(B) 16,(C) 18,(D) 12,(A) 14
+Statistics,Medium,"If the mean of the numbers 4, 8, x, and 12 is 10, what is the value of x?",(A) 12,(B) 8,(C) 16,(D) 10,(C) 16
+Statistics,Medium,"The median of the data set {1, 3, 5, 7, 9, 11} is?",(A) 5,(B) 6,(C) 4,(D) 3,(A) 5
+Statistics,Medium,"What is the mode of the data set {5, 7, 7, 10, 10, 10}?",(A) 7,(B) 5,(C) 10,(D) 6,(C) 10
+Statistics,Medium,"The variance of the data set {4, 6, 8, 10} is?",(A) 6,(B) 4,(C) 5,(D) 7,(B) 4
+Statistics,Medium,"The mean of the data set {4, 5, 6, 7, 8, 9} is?",(A) 6,(B) 5,(C) 7,(D) 8,(A) 6
+Statistics,Medium,"The median of the data set {2, 5, 8, 10, 12, 15} is?",(A) 8,(B) 9,(C) 10,(D) 7,(B) 9
+Statistics,Medium,"If the class intervals are 10-20, 20-30, 30-40, the class mark of the second class is?",(A) 10,(B) 25,(C) 20,(D) 15,(B) 25
+Statistics,Medium,"What is the mode of the data set {7, 9, 12, 12, 15, 15, 15, 18}?",(A) 7,(B) 15,(C) 12,(D) 9,(B) 15
+Statistics,Medium,The sum of the first 5 odd numbers is?,(A) 15,(B) 25,(C) 35,(D) 45,(A) 15
+Statistics,Medium,"The range of the data set {10, 20, 30, 40, 50} is?",(A) 50,(B) 40,(C) 30,(D) 10,(B) 40
+Statistics,Medium,"A studentâ€™s marks in 5 subjects are {70, 85, 90, 60, 80}. What is the mean?",(A) 80,(B) 75,(C) 85,(D) 70,(A) 80
+Statistics,Medium,"A bag contains 5 red, 3 green, and 4 yellow balls. What is the probability of selecting a green ball?",(A) 3/12,(B) 1/4,(C) 3/11,(D) 1/3,(C) 3/11
+Statistics,Medium,A die is thrown once. What is the probability of getting a number greater than 4?,(A) 1/3,(B) 1/6,(C) 1/2,(D) 1/4,(A) 1/3
+Statistics,Medium,"The mean of five numbers is 20. If one number is removed and the new mean becomes 18, what is the number that was removed?",(A) 25,(B) 28,(C) 30,(D) 32,(C) 30
+Statistics,Medium,"If the mode of a dataset {3, 5, 7, 5, 9, 11, 5, 13, 15} is x, what is x?",(A) 5,(B) 7,(C) 9,(D) 11,(A) 5
+Statistics,Medium,"The range of a dataset is defined as the difference between the maximum and minimum values. If the highest score in a test is 92 and the lowest score is 56, what is the range?",(A) 34,(B) 36,(C) 38,(D) 40,(C) 36
+Statistics,Medium,"The median of a dataset {4, 8, 12, 16, 20, 24, 28} is:",(A) 12,(B) 16,(C) 18,(D) 20,(B) 16
+Statistics,Medium,"A studentâ€™s scores in five tests are 72, 75, 78, 80, and 85. What is the variance of the scores?",(A) 20,(B) 18,(C) 25,(D) 22,(C) 25
+Statistics,Medium,"The mean of 6 numbers is 15. If one number is removed and the new mean becomes 14, what is the number that was removed?",(A) 15,(B) 16,(C) 20,(D) 22,(C) 20
+Statistics,Medium,"The median of the data set {3, 7, 9, 12, 15, 17, 19} is:",(A) 9,(B) 12,(C) 15,(D) 17,(B) 12
+Statistics,Medium,"The mode of a dataset {2, 3, 3, 5, 6, 6, 6, 8, 9} is:",(A) 3,(B) 5,(C) 6,(D) 8,(C) 6
+Statistics,Medium,"If the mean of five numbers is 40 and four of them are 35, 42, 38, and 45, what is the missing number?",(A) 40,(B) 41,(C) 42,(D) 43,(A) 40
+Statistics,Medium,"Find the range of the dataset {22, 34, 19, 45, 38, 30}.",(A) 15,(B) 16,(C) 20,(D) 26,(D) 26
+Statistics,Medium,"If the mean of 10 numbers is 25, then the sum of these numbers is:",(A) 200,(B) 225,(C) 250,(D) 275,(C) 250
+Statistics,Medium,"A class of 50 students has an average height of 150 cm. If the height of one new student is included and the new average becomes 151 cm, what is the height of the new student?",(A) 170 cm,(B) 175 cm,(C) 160 cm,(D) 165 cm,(B) 175 cm
+Statistics,Medium,"The median of the dataset {5, 10, 15, 20, 25, 30} is:",(A) 15,(B) 17.5,(C) 20,(D) 22.5,(B) 17.5
+Statistics,Medium,"If the sum of squared deviations from the mean of 5 numbers is 50, what is the variance?",(A) 5,(B) 8,(C) 10,(D) 12,(A) 10
+Statistics,Medium,"In a histogram, which measure of central tendency is most affected by extreme values?",(A) Mean,(B) Median,(C) Mode,(D) None of these,(A) Mean
+Statistics,Medium,"The average of 8 numbers is 28. If one number is removed, and the new average becomes 25, what is the removed number?",(A) 45,(B) 48,(C) 50,(D) 52,(B) 48
+Statistics,Medium,"Find the mode of the dataset {4, 5, 7, 8, 8, 9, 10, 10, 10, 12}.",(A) 7,(B) 8,(C) 9,(D) 10,(D) 10
+Statistics,Medium,"A set of five numbers has a mean of 30. If four of the numbers are 25, 28, 32, and 35, what is the fifth number?",(A) 27,(B) 30,(C) 32,(D) 33,(B) 30
+Statistics,Medium,"If the range of a dataset is 45 and the smallest value is 20, what is the largest value?",(A) 60,(B) 65,(C) 70,(D) 75,(B) 65
+Statistics,Medium,"The mean of 6 numbers is 22. If one of the numbers, 30, is removed, what is the new mean?",(A) 18,(B) 20,(C) 22,(D) 24,(B) 20
+Statistics,Medium,"The median of {12, 18, 22, 24, 30, 35, 40} is:",(A) 22,(B) 24,(C) 30,(D) 35,(B) 24
+Statistics,Medium,A set of numbers has a variance of 36. What is the standard deviation?,(A) 4,(B) 5,(C) 6,(D) 7,(C) 6
+Statistics,Medium,"The mean of 15 numbers is 50. If one number is increased by 30, what is the new mean?",(A) 51,(B) 52,(C) 50.5,(D) 53,(C) 50.5
+Statistics,Medium,"Find the range of the dataset {13, 21, 17, 26, 19, 24}.",(A) 10,(B) 11,(C) 12,(D) 13,(C) 12
+Statistics,Medium,"If the sum of 8 numbers is 400, what is the mean?",(A) 45,(B) 50,(C) 55,(D) 60,(B) 50
+Statistics,Medium,"The skewness of the dataset {2, 3, 5, 7, 8, 8, 9, 10, 11, 15} is?",(A) Positive skew,(B) Negative skew,(C) No skew,(D) Cannot be determined,(A) Positive skew
+Statistics,Medium,"The skewness of the dataset {2, 3, 5, 7, 8, 8, 9, 10, 11, 15} is?",(A) Positive skew,(B) Negative skew,(C) No skew,(D) Cannot be determined,(A) Positive skew
+Statistics,Medium,"The skewness of the dataset {10, 20, 30, 30, 30, 40, 50, 60} is?",(A) Positive skew,(B) Negative skew,(C) Symmetric,(D) Cannot be determined,(A) Positive skew
+Statistics,Medium,"The mean of the dataset {4, 8, 12, 16, 20} is?",(A) 10,(B) 12,(C) 14,(D) 16,(B) 12
+Statistics,Medium,"If the mean of a dataset is 50, and all the values in the dataset are doubled, what happens to the mean?",(A) It becomes 100,(B) It remains 50,(C) It becomes 25,(D) It becomes 200,(A) It becomes 100
+Statistics,Medium,"The mean of the dataset {2, 4, 6, 8, 10} is?",(A) 5,(B) 6,(C) 7,(D) 8,(B) 6
+Statistics,Medium,"The variance of the dataset {1, 2, 3, 4, 5} is?",(A) 1,(B) 2,(C) 1.25,(D) 2.5,(C) 1.25
+Statistics,Medium,"If the mean of a dataset is 50, and all the values in the dataset are doubled, what happens to the mean?",(A) It becomes 100,(B) It remains 50,(C) It becomes 25,(D) It becomes 200,(A) It becomes 100
+Statistics,Medium,"The mean of the dataset {2, 4, 6, 8, 10} is?",(A) 5,(B) 6,(C) 7,(D) 8,(B) 6
+Statistics,Medium,"The variance of the dataset {1, 2, 3, 4, 5} is?",(A) 1,(B) 2,(C) 1.25,(D) 2.5,(C) 1.25
+Statistics,Medium,"If the variance of a dataset is 0, it means?",(A) All values in the dataset are different,(B) All values in the dataset are equal,(C) The dataset is symmetric,(D) None of the above,(B) All values in the dataset are equal
+Statistics,Medium,"The variance of the dataset {2, 4, 6, 8, 10} is?",(A) 6.25,(B) 8,(C) 5,(D) 4,(A) 6.25
+Statistics,Medium,"If the data points in a dataset are far from the mean, the variance is?",(A) Low,(B) High,(C) Zero,(D) None of the above,(B) High
+Statistics,Medium,Which of the following is the formula for calculating variance?,(A) (Sum of squared deviations) / N,(B) (Sum of absolute deviations) / N,(C) (Sum of squared deviations) / (N - 1),(D) (Sum of deviations) / N,(C) (Sum of squared deviations) / (N - 1)
